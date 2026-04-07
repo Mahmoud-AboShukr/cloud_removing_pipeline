@@ -1,0 +1,101 @@
+# =========================
+
+# DATA (CRITICAL)
+
+# =========================
+
+data/
+*.tif
+*.tiff
+*.jp2
+*.img
+*.vrt
+
+# Vector data
+
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.geojson
+
+# =========================
+
+# OUTPUTS
+
+# =========================
+
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Logs / temp outputs
+
+*.log
+output.txt
+stage2_output.txt
+
+# =========================
+
+# PYTHON
+
+# =========================
+
+venv/
+.env/
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# =========================
+
+# GEOSPATIAL / CACHE
+
+# =========================
+
+*.aux.xml
+*.ovr
+*.tfw
+*.xml
+
+# Raster processing temp files
+
+*.tmp
+*.cache
+
+# =========================
+
+# IDE / EDITORS
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# OS
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# MISC
+
+# =========================
+
+*.zip
+*.tar
+*.gz
