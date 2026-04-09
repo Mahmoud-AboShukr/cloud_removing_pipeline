@@ -99,3 +99,15 @@ Thumbs.db
 *.zip
 *.tar
 *.gz
+
+
+venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+data/outputs/
+
+project_tree.txt
+project_tree_after_rearrange.txt
