@@ -1,0 +1,52 @@
+{
+  "city_slug": "sao_luis",
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/sao_luis_buffered_2500m.gpkg",
+  "n_inventory_rows": 6,
+  "n_valid_ocm_scenes": 6,
+  "reference_scene_dir": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754",
+  "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754/B02.tif",
+  "reference_crs": "EPSG:32723",
+  "reference_transform": [
+    10.0,
+    0.0,
+    499980.0,
+    0.0,
+    -10.0,
+    9800020.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "reference_res_x": 10.0,
+  "reference_res_y": 10.0,
+  "reference_width": 10980,
+  "reference_height": 10980,
+  "reference_dtype": "uint16",
+  "reference_nodata": 0.0,
+  "aoi_bounds_in_reference_crs": [
+    567876.8595902193,
+    9693830.988227805,
+    595687.5790188636,
+    9728273.818080576
+  ],
+  "snapped_bounds": [
+    567870.0,
+    9693830.0,
+    595690.0,
+    9728280.0
+  ],
+  "grid_width": 2782,
+  "grid_height": 3445,
+  "grid_transform": [
+    10.0,
+    0.0,
+    567870.0,
+    0.0,
+    -10.0,
+    9728280.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "grid_nodata": 0
+}

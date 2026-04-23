@@ -1,0 +1,11 @@
+{
+  "city_slug": "joao_pessoa",
+  "n_inventory_rows": 6,
+  "n_scenes_with_required_ocm_inputs": 6,
+  "n_ok": 6,
+  "n_exists": 0,
+  "n_failed": 0,
+  "overwrite": false,
+  "results_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/logs/joao_pessoa/joao_pessoa_ocm_generation_results.json",
+  "summary_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/logs/joao_pessoa/joao_pessoa_ocm_generation_summary.json"
+}

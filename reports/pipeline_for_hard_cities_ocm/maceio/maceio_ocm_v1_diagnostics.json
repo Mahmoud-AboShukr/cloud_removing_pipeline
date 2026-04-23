@@ -1,0 +1,119 @@
+{
+  "city_slug": "maceio",
+  "n_scene_dirs_discovered": 7,
+  "n_scene_dirs_valid": 6,
+  "dilate_iters": 3,
+  "max_hole_pixels": 1500,
+  "total_pixels": 7395044,
+  "unresolved_pixels": 136995,
+  "unresolved_ratio": 0.01852524474499408,
+  "scene_diagnostics": [
+    {
+      "scene_id": "S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146",
+      "total_pixels": 7395044,
+      "valid_pixels": 5760585,
+      "valid_fraction": 0.7789791379199367,
+      "bad_dilated_pixels": 1634459,
+      "bad_dilated_fraction": 0.22102086208006336
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415",
+      "total_pixels": 7395044,
+      "valid_pixels": 5136866,
+      "valid_fraction": 0.6946362996623143,
+      "bad_dilated_pixels": 2258178,
+      "bad_dilated_fraction": 0.3053637003376856
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428",
+      "total_pixels": 7395044,
+      "valid_pixels": 5501144,
+      "valid_fraction": 0.7438960471364335,
+      "bad_dilated_pixels": 1893900,
+      "bad_dilated_fraction": 0.25610395286356646
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806",
+      "total_pixels": 7395044,
+      "valid_pixels": 4890320,
+      "valid_fraction": 0.6612969442778164,
+      "bad_dilated_pixels": 2504724,
+      "bad_dilated_fraction": 0.3387030557221837
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943",
+      "total_pixels": 7395044,
+      "valid_pixels": 3617840,
+      "valid_fraction": 0.48922494578801695,
+      "bad_dilated_pixels": 3777204,
+      "bad_dilated_fraction": 0.5107750542119831
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354",
+      "total_pixels": 7395044,
+      "valid_pixels": 5920188,
+      "valid_fraction": 0.8005615652861565,
+      "bad_dilated_pixels": 1474856,
+      "bad_dilated_fraction": 0.19943843471384348
+    }
+  ],
+  "output_files": {
+    "composite_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/maceio/maceio_ocm_v1_composite.tif",
+    "composite_filled_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/maceio/maceio_ocm_v1_composite_smallholes_filled.tif",
+    "observation_count_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/maceio/maceio_ocm_v1_observation_count.tif",
+    "cloudmask_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/maceio/maceio_ocm_v1_cloudmask.tif",
+    "small_holes_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/maceio/maceio_ocm_v1_small_holes_mask.tif"
+  },
+  "grid_spec": {
+    "city_slug": "maceio",
+    "aoi_path": "data/interim/aoi_buffered_hard_cities/maceio_buffered_2500m.gpkg",
+    "n_inventory_rows": 7,
+    "n_valid_ocm_scenes": 7,
+    "reference_scene_dir": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146",
+    "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B02.tif",
+    "reference_crs": "EPSG:32724",
+    "reference_transform": [
+      10.0,
+      0.0,
+      799980.0,
+      0.0,
+      -10.0,
+      9000040.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "reference_res_x": 10.0,
+    "reference_res_y": 10.0,
+    "reference_width": 10980,
+    "reference_height": 10980,
+    "reference_dtype": "uint16",
+    "reference_nodata": 0.0,
+    "aoi_bounds_in_reference_crs": [
+      849577.4655247245,
+      8926313.607836828,
+      878643.6087596598,
+      8951739.661496477
+    ],
+    "snapped_bounds": [
+      849570.0,
+      8926310.0,
+      878650.0,
+      8951740.0
+    ],
+    "grid_width": 2908,
+    "grid_height": 2543,
+    "grid_transform": [
+      10.0,
+      0.0,
+      849570.0,
+      0.0,
+      -10.0,
+      8951740.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "grid_nodata": 0
+  }
+}

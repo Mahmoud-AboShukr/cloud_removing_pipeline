@@ -1,0 +1,11 @@
+{
+  "city_slug": "sao_luis",
+  "n_inventory_rows": 6,
+  "n_scenes_with_required_ocm_inputs": 6,
+  "n_ok": 6,
+  "n_exists": 0,
+  "n_failed": 0,
+  "overwrite": false,
+  "results_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/logs/sao_luis/sao_luis_ocm_generation_results.json",
+  "summary_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/logs/sao_luis/sao_luis_ocm_generation_summary.json"
+}

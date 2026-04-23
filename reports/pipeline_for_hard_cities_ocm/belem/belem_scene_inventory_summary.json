@@ -1,0 +1,21 @@
+{
+  "city_slug": "belem",
+  "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+  "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/belem/2022/s2_planetary_multiscene_12band_v3",
+  "aoi_found": true,
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/belem_buffered_2500m.gpkg",
+  "n_scene_dirs": 6,
+  "n_with_required_ocm_inputs": 6,
+  "n_with_all_12_bands": 6,
+  "n_with_scl": 6,
+  "status": "ok",
+  "discovery_mode": "recursive_search_for_B03_B04_B08",
+  "aoi_crs": "EPSG:4326",
+  "aoi_bounds": [
+    -48.530255721305494,
+    -1.5016496019930898,
+    -48.305333164130644,
+    -1.0376938148044297
+  ],
+  "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/belem_scene_inventory.csv"
+}

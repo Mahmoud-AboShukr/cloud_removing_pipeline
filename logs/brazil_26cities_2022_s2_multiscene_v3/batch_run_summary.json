@@ -1,0 +1,675 @@
+{
+  "run_timestamp_utc": "2026-04-16T15:21:41.107562+00:00",
+  "repo_root": "/home/HALLOPEAU/Bureau/cloud_removing_pipeline",
+  "script_dir": "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3",
+  "stages": [
+    "download"
+  ],
+  "cities": {
+    "sao_paulo": {
+      "city_key": "sao_paulo",
+      "city_slug": "sao_paulo",
+      "city_display_name": "São Paulo",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 1.34,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/sao_paulo/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "sao_paulo",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "rio": {
+      "city_key": "rio",
+      "city_slug": "rio_de_janeiro",
+      "city_display_name": "Rio de Janeiro",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 1.12,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/rio_de_janeiro/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "rio",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "brasilia": {
+      "city_key": "brasilia",
+      "city_slug": "brasilia",
+      "city_display_name": "Brasília",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 1.02,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/brasilia/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "brasilia",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "fortaleza": {
+      "city_key": "fortaleza",
+      "city_slug": "fortaleza",
+      "city_display_name": "Fortaleza",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.74,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/fortaleza/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "fortaleza",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "salvador": {
+      "city_key": "salvador",
+      "city_slug": "salvador",
+      "city_display_name": "Salvador",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.96,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/salvador/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "salvador",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "belo_horizonte": {
+      "city_key": "belo_horizonte",
+      "city_slug": "belo_horizonte",
+      "city_display_name": "Belo Horizonte",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.98,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/belo_horizonte/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "belo_horizonte",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "manaus": {
+      "city_key": "manaus",
+      "city_slug": "manaus",
+      "city_display_name": "Manaus",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.78,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/manaus/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "manaus",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "curitiba": {
+      "city_key": "curitiba",
+      "city_slug": "curitiba",
+      "city_display_name": "Curitiba",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.97,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/curitiba/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "curitiba",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "recife": {
+      "city_key": "recife",
+      "city_slug": "recife",
+      "city_display_name": "Recife",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.78,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/recife/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "recife",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "goiania": {
+      "city_key": "goiania",
+      "city_slug": "goiania",
+      "city_display_name": "Goiânia",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.81,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/goiania/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "goiania",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "belem": {
+      "city_key": "belem",
+      "city_slug": "belem",
+      "city_display_name": "Belém",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.86,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/belem/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "belem",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "porto_alegre": {
+      "city_key": "porto_alegre",
+      "city_slug": "porto_alegre",
+      "city_display_name": "Porto Alegre",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.77,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/porto_alegre/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "porto_alegre",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "guarulhos": {
+      "city_key": "guarulhos",
+      "city_slug": "guarulhos",
+      "city_display_name": "Guarulhos",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.93,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/guarulhos/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "guarulhos",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "campinas": {
+      "city_key": "campinas",
+      "city_slug": "campinas",
+      "city_display_name": "Campinas",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.75,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/campinas/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "campinas",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "sao_luis": {
+      "city_key": "sao_luis",
+      "city_slug": "sao_luis",
+      "city_display_name": "São Luís",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 1.05,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/sao_luis/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "sao_luis",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "maceio": {
+      "city_key": "maceio",
+      "city_slug": "maceio",
+      "city_display_name": "Maceió",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.93,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/maceio/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "maceio",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "campo_grande": {
+      "city_key": "campo_grande",
+      "city_slug": "campo_grande",
+      "city_display_name": "Campo Grande",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.97,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/campo_grande/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "campo_grande",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "sao_goncalo": {
+      "city_key": "sao_goncalo",
+      "city_slug": "sao_goncalo",
+      "city_display_name": "São Gonçalo",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.72,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/sao_goncalo/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "sao_goncalo",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "teresina": {
+      "city_key": "teresina",
+      "city_slug": "teresina",
+      "city_display_name": "Teresina",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 1.1,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/teresina/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "teresina",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "joao_pessoa": {
+      "city_key": "joao_pessoa",
+      "city_slug": "joao_pessoa",
+      "city_display_name": "João Pessoa",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.74,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/joao_pessoa/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "joao_pessoa",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "duque_de_caxias": {
+      "city_key": "duque_de_caxias",
+      "city_slug": "duque_de_caxias",
+      "city_display_name": "Duque de Caxias",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.74,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/duque_de_caxias/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "duque_de_caxias",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "nova_iguacu": {
+      "city_key": "nova_iguacu",
+      "city_slug": "nova_iguacu",
+      "city_display_name": "Nova Iguaçu",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.72,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/nova_iguacu/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "nova_iguacu",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "sao_bernardo_do_campo": {
+      "city_key": "sao_bernardo_do_campo",
+      "city_slug": "sao_bernardo_do_campo",
+      "city_display_name": "São Bernardo do Campo",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 1.05,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/sao_bernardo_do_campo/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "sao_bernardo_do_campo",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "natal": {
+      "city_key": "natal",
+      "city_slug": "natal",
+      "city_display_name": "Natal",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.77,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/natal/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "natal",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "santo_andre": {
+      "city_key": "santo_andre",
+      "city_slug": "santo_andre",
+      "city_display_name": "Santo André",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.73,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/santo_andre/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "santo_andre",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    },
+    "sorocaba": {
+      "city_key": "sorocaba",
+      "city_slug": "sorocaba",
+      "city_display_name": "Sorocaba",
+      "stages": {
+        "download": {
+          "stage": "download",
+          "success": true,
+          "elapsed_seconds": 0.75,
+          "log_path": "logs/brazil_26cities_2022_s2_multiscene_v3/sorocaba/download.log",
+          "error": "",
+          "command": [
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/venv/bin/python3",
+            "/home/HALLOPEAU/Bureau/cloud_removing_pipeline/cloud_removing_pipeline/src/brazil_26cities_2022_s2_multiscene_v3/search_and_download_multiscene.py",
+            "--city",
+            "sorocaba",
+            "--output-root",
+            "data/raw",
+            "--log-level",
+            "INFO"
+          ]
+        }
+      },
+      "success": true
+    }
+  },
+  "parameters": {
+    "raw_root": "data/raw",
+    "processed_root": "data/processed",
+    "log_dir": "logs/brazil_26cities_2022_s2_multiscene_v3",
+    "residual_threshold": 0.02,
+    "valid_scl_values": [
+      4,
+      5,
+      6
+    ],
+    "p_low": 2.0,
+    "p_high": 98.0,
+    "save_rgb_tif": false,
+    "stop_on_stage_failure": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "city_slug": "joao_pessoa",
+  "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/joao_pessoa/joao_pessoa_grid_spec.json",
+  "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/joao_pessoa/joao_pessoa_grid_template.tif",
+  "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/joao_pessoa/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220216T124321_R009_T25MBN_20220224T044429/B02.tif",
+  "reference_crs": "EPSG:32725",
+  "grid_width": 2000,
+  "grid_height": 2237,
+  "snapped_bounds": [
+    284230.0,
+    9199250.0,
+    304230.0,
+    9221620.0
+  ]
+}

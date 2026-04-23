@@ -1,0 +1,21 @@
+{
+  "city_slug": "duque_de_caxias",
+  "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+  "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3",
+  "aoi_found": true,
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/duque_de_caxias_buffered_2500m.gpkg",
+  "n_scene_dirs": 7,
+  "n_with_required_ocm_inputs": 7,
+  "n_with_all_12_bands": 7,
+  "n_with_scl": 6,
+  "status": "ok",
+  "discovery_mode": "recursive_search_for_B03_B04_B08",
+  "aoi_crs": "EPSG:4326",
+  "aoi_bounds": [
+    -43.35521635420433,
+    -22.82966139173283,
+    -43.174483785814104,
+    -22.585737300648283
+  ],
+  "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/duque_de_caxias_scene_inventory.csv"
+}

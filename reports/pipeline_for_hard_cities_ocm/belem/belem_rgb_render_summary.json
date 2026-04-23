@@ -1,0 +1,20 @@
+{
+  "city_slug": "belem",
+  "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/belem/belem_ocm_v1_composite_smallholes_filled.tif",
+  "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/belem/belem_ocm_v1_rgb.tif",
+  "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/belem/belem_ocm_v1_rgb.png",
+  "status": "ok",
+  "use_filled": true,
+  "percentile_low": 2.0,
+  "percentile_high": 98.0,
+  "shape_chw": [
+    3,
+    5134,
+    2510
+  ],
+  "shape_hwc_png": [
+    5134,
+    2510,
+    3
+  ]
+}

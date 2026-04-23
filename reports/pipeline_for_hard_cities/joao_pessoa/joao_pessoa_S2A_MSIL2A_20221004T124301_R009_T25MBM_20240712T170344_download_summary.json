@@ -1,0 +1,105 @@
+{
+  "city": "João Pessoa",
+  "city_slug": "joao_pessoa",
+  "item_id": "S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344",
+  "best_scene_json": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/joao_pessoa/joao_pessoa_best_scene.json",
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/joao_pessoa_buffered_2500m.gpkg",
+  "download_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344",
+  "clipped_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi",
+  "assets_requested": [
+    "B01",
+    "B02",
+    "B03",
+    "B04",
+    "B05",
+    "B06",
+    "B07",
+    "B08",
+    "B8A",
+    "B09",
+    "B11",
+    "B12",
+    "SCL",
+    "visual"
+  ],
+  "n_assets_requested": 14,
+  "n_assets_ok": 14,
+  "n_assets_failed": 0,
+  "include_visual": true,
+  "make_clipped_products": true,
+  "clipped_products": [
+    {
+      "asset_name": "B02",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B02_clipped.tif",
+      "status": "ok",
+      "meta": {
+        "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B02.tif",
+        "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B02_clipped.tif",
+        "shape": [
+          1,
+          77,
+          2000
+        ],
+        "crs": "EPSG:32725"
+      }
+    },
+    {
+      "asset_name": "B03",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B03_clipped.tif",
+      "status": "ok",
+      "meta": {
+        "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B03.tif",
+        "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B03_clipped.tif",
+        "shape": [
+          1,
+          77,
+          2000
+        ],
+        "crs": "EPSG:32725"
+      }
+    },
+    {
+      "asset_name": "B04",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B04_clipped.tif",
+      "status": "ok",
+      "meta": {
+        "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B04.tif",
+        "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B04_clipped.tif",
+        "shape": [
+          1,
+          77,
+          2000
+        ],
+        "crs": "EPSG:32725"
+      }
+    },
+    {
+      "asset_name": "SCL",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/SCL_clipped.tif",
+      "status": "ok",
+      "meta": {
+        "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/SCL.tif",
+        "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/SCL_clipped.tif",
+        "shape": [
+          1,
+          39,
+          1001
+        ],
+        "crs": "EPSG:32725"
+      }
+    },
+    {
+      "asset_name": "RGB_quicklook",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/RGB_clipped_quicklook.tif",
+      "status": "ok",
+      "meta": {
+        "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/RGB_clipped_quicklook.tif",
+        "shape": [
+          3,
+          77,
+          2000
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "cities": [
+    {
+      "city_slug": "belem",
+      "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/belem/belem_ocm_v1_composite_smallholes_filled.tif",
+      "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/belem/belem_ocm_v1_rgb.tif",
+      "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/belem/belem_ocm_v1_rgb.png",
+      "status": "ok",
+      "use_filled": true,
+      "percentile_low": 2.0,
+      "percentile_high": 98.0,
+      "shape_chw": [
+        3,
+        5134,
+        2510
+      ],
+      "shape_hwc_png": [
+        5134,
+        2510,
+        3
+      ]
+    },
+    {
+      "city_slug": "duque_de_caxias",
+      "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/duque_de_caxias/duque_de_caxias_ocm_v1_composite_smallholes_filled.tif",
+      "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/duque_de_caxias/duque_de_caxias_ocm_v1_rgb.tif",
+      "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/duque_de_caxias/duque_de_caxias_ocm_v1_rgb.png",
+      "status": "ok",
+      "use_filled": true,
+      "percentile_low": 2.0,
+      "percentile_high": 98.0,
+      "shape_chw": [
+        3,
+        2697,
+        1882
+      ],
+      "shape_hwc_png": [
+        2697,
+        1882,
+        3
+      ]
+    },
+    {
+      "city_slug": "joao_pessoa",
+      "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/joao_pessoa/joao_pessoa_ocm_v1_composite_smallholes_filled.tif",
+      "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/joao_pessoa/joao_pessoa_ocm_v1_rgb.tif",
+      "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/joao_pessoa/joao_pessoa_ocm_v1_rgb.png",
+      "status": "ok",
+      "use_filled": true,
+      "percentile_low": 2.0,
+      "percentile_high": 98.0,
+      "shape_chw": [
+        3,
+        2237,
+        2000
+      ],
+      "shape_hwc_png": [
+        2237,
+        2000,
+        3
+      ]
+    },
+    {
+      "city_slug": "maceio",
+      "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/maceio/maceio_ocm_v1_composite_smallholes_filled.tif",
+      "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/maceio/maceio_ocm_v1_rgb.tif",
+      "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/maceio/maceio_ocm_v1_rgb.png",
+      "status": "ok",
+      "use_filled": true,
+      "percentile_low": 2.0,
+      "percentile_high": 98.0,
+      "shape_chw": [
+        3,
+        2543,
+        2908
+      ],
+      "shape_hwc_png": [
+        2543,
+        2908,
+        3
+      ]
+    },
+    {
+      "city_slug": "natal",
+      "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/natal/natal_ocm_v1_composite_smallholes_filled.tif",
+      "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/natal/natal_ocm_v1_rgb.tif",
+      "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/natal/natal_ocm_v1_rgb.png",
+      "status": "ok",
+      "use_filled": true,
+      "percentile_low": 2.0,
+      "percentile_high": 98.0,
+      "shape_chw": [
+        3,
+        2478,
+        1925
+      ],
+      "shape_hwc_png": [
+        2478,
+        1925,
+        3
+      ]
+    },
+    {
+      "city_slug": "recife",
+      "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/recife/recife_ocm_v1_composite_smallholes_filled.tif",
+      "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/recife/recife_ocm_v1_rgb.tif",
+      "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/recife/recife_ocm_v1_rgb.png",
+      "status": "ok",
+      "use_filled": true,
+      "percentile_low": 2.0,
+      "percentile_high": 98.0,
+      "shape_chw": [
+        3,
+        2589,
+        1869
+      ],
+      "shape_hwc_png": [
+        2589,
+        1869,
+        3
+      ]
+    },
+    {
+      "city_slug": "sao_luis",
+      "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/sao_luis/sao_luis_ocm_v1_composite_smallholes_filled.tif",
+      "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/sao_luis/sao_luis_ocm_v1_rgb.tif",
+      "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/sao_luis/sao_luis_ocm_v1_rgb.png",
+      "status": "ok",
+      "use_filled": true,
+      "percentile_low": 2.0,
+      "percentile_high": 98.0,
+      "shape_chw": [
+        3,
+        3445,
+        2782
+      ],
+      "shape_hwc_png": [
+        3445,
+        2782,
+        3
+      ]
+    }
+  ],
+  "use_filled": true,
+  "percentile_low": 2.0,
+  "percentile_high": 98.0,
+  "overwrite": true
+}

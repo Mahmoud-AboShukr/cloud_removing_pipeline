@@ -1,0 +1,119 @@
+{
+  "city_slug": "belem",
+  "n_scene_dirs_discovered": 6,
+  "n_scene_dirs_valid": 6,
+  "dilate_iters": 3,
+  "max_hole_pixels": 1500,
+  "total_pixels": 12886340,
+  "unresolved_pixels": 15500,
+  "unresolved_ratio": 0.0012028240757266998,
+  "scene_diagnostics": [
+    {
+      "scene_id": "S2A_MSIL2A_20220624T133851_R124_T22MGD_20220625T050550",
+      "total_pixels": 12886340,
+      "valid_pixels": 10636322,
+      "valid_fraction": 0.825395108308488,
+      "bad_dilated_pixels": 2250018,
+      "bad_dilated_fraction": 0.1746048916915121
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20220724T133851_R124_T22MGD_20240704T032003",
+      "total_pixels": 12886340,
+      "valid_pixels": 10789008,
+      "valid_fraction": 0.8372437790714818,
+      "bad_dilated_pixels": 2097332,
+      "bad_dilated_fraction": 0.1627562209285181
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20220902T133851_R124_T22MGD_20240728T104708",
+      "total_pixels": 12886340,
+      "valid_pixels": 10193933,
+      "valid_fraction": 0.7910650347577357,
+      "bad_dilated_pixels": 2692407,
+      "bad_dilated_fraction": 0.2089349652422643
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20220922T133841_R124_T22MGD_20220923T040056",
+      "total_pixels": 12886340,
+      "valid_pixels": 8621463,
+      "valid_fraction": 0.6690389202830284,
+      "bad_dilated_pixels": 4264877,
+      "bad_dilated_fraction": 0.33096107971697164
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220808T133839_R124_T22MGD_20220810T082336",
+      "total_pixels": 12886340,
+      "valid_pixels": 9152652,
+      "valid_fraction": 0.7102600117643955,
+      "bad_dilated_pixels": 3733688,
+      "bad_dilated_fraction": 0.28973998823560454
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220818T133839_R124_T22MGD_20220819T033036",
+      "total_pixels": 12886340,
+      "valid_pixels": 8146403,
+      "valid_fraction": 0.6321735263853041,
+      "bad_dilated_pixels": 4739937,
+      "bad_dilated_fraction": 0.3678264736146959
+    }
+  ],
+  "output_files": {
+    "composite_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/belem/belem_ocm_v1_composite.tif",
+    "composite_filled_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/belem/belem_ocm_v1_composite_smallholes_filled.tif",
+    "observation_count_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/belem/belem_ocm_v1_observation_count.tif",
+    "cloudmask_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/belem/belem_ocm_v1_cloudmask.tif",
+    "small_holes_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/belem/belem_ocm_v1_small_holes_mask.tif"
+  },
+  "grid_spec": {
+    "city_slug": "belem",
+    "aoi_path": "data/interim/aoi_buffered_hard_cities/belem_buffered_2500m.gpkg",
+    "n_inventory_rows": 6,
+    "n_valid_ocm_scenes": 6,
+    "reference_scene_dir": "/media/HALLOPEAU/T7/raw_backup/belem/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220624T133851_R124_T22MGD_20220625T050550",
+    "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/belem/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220624T133851_R124_T22MGD_20220625T050550/B02.tif",
+    "reference_crs": "EPSG:32722",
+    "reference_transform": [
+      10.0,
+      0.0,
+      699960.0,
+      0.0,
+      -10.0,
+      9900040.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "reference_res_x": 10.0,
+    "reference_res_y": 10.0,
+    "reference_width": 10980,
+    "reference_height": 10980,
+    "reference_dtype": "uint16",
+    "reference_nodata": 0.0,
+    "aoi_bounds_in_reference_crs": [
+      774817.5952966997,
+      9833857.75148859,
+      799907.8332638456,
+      9885182.599912608
+    ],
+    "snapped_bounds": [
+      774810.0,
+      9833850.0,
+      799910.0,
+      9885190.0
+    ],
+    "grid_width": 2510,
+    "grid_height": 5134,
+    "grid_transform": [
+      10.0,
+      0.0,
+      774810.0,
+      0.0,
+      -10.0,
+      9885190.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "grid_nodata": 0
+  }
+}

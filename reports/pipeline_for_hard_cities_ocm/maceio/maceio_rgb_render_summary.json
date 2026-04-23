@@ -1,0 +1,20 @@
+{
+  "city_slug": "maceio",
+  "composite_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/maceio/maceio_ocm_v1_composite_smallholes_filled.tif",
+  "rgb_geotiff": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/maceio/maceio_ocm_v1_rgb.tif",
+  "rgb_png": "/media/HALLOPEAU/T7/ocm_v1_outputs/rgb/maceio/maceio_ocm_v1_rgb.png",
+  "status": "ok",
+  "use_filled": true,
+  "percentile_low": 2.0,
+  "percentile_high": 98.0,
+  "shape_chw": [
+    3,
+    2543,
+    2908
+  ],
+  "shape_hwc_png": [
+    2543,
+    2908,
+    3
+  ]
+}

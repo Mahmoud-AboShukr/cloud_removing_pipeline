@@ -1,0 +1,238 @@
+[
+  {
+    "city_slug": "recife",
+    "scene_id": "S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/recife/S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 54220420,
+        "1": 48405053,
+        "2": 24436,
+        "3": 17910491
+      },
+      "fractions": {
+        "0": 0.4497365635814082,
+        "1": 0.40150043463691226,
+        "2": 0.0002026867860425148,
+        "3": 0.14856031499563704
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "recife",
+    "scene_id": "S2A_MSIL2A_20220706T124301_R009_T25MBM_20220707T194138",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220706T124301_R009_T25MBM_20220707T194138",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/recife/S2A_MSIL2A_20220706T124301_R009_T25MBM_20220707T194138/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220706T124301_R009_T25MBM_20220707T194138/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220706T124301_R009_T25MBM_20220707T194138/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220706T124301_R009_T25MBM_20220707T194138/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 72678410,
+        "1": 31312233,
+        "2": 34952,
+        "3": 16534805
+      },
+      "fractions": {
+        "0": 0.6028381624480343,
+        "1": 0.25972237152497835,
+        "2": 0.0002899127740120305,
+        "3": 0.13714955325297526
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "recife",
+    "scene_id": "S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/recife/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 63323278,
+        "1": 43159108,
+        "3": 14078014
+      },
+      "fractions": {
+        "0": 0.5252411073619531,
+        "1": 0.357987432025773,
+        "3": 0.11677146061227402
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "recife",
+    "scene_id": "S2B_MSIL2A_20220122T124309_R009_T25MBM_20220123T081551",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T25MBM_20220123T081551",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/recife/S2B_MSIL2A_20220122T124309_R009_T25MBM_20220123T081551/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T25MBM_20220123T081551/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T25MBM_20220123T081551/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T25MBM_20220123T081551/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 53565965,
+        "1": 48265427,
+        "2": 126660,
+        "3": 18602348
+      },
+      "fractions": {
+        "0": 0.44430812273350123,
+        "1": 0.4003422931576206,
+        "2": 0.0010505937272935393,
+        "3": 0.15429899038158468
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "recife",
+    "scene_id": "S2B_MSIL2A_20220810T124259_R009_T25MBM_20220811T155354",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T25MBM_20220811T155354",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/recife/S2B_MSIL2A_20220810T124259_R009_T25MBM_20220811T155354/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T25MBM_20220811T155354/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T25MBM_20220811T155354/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T25MBM_20220811T155354/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 71990810,
+        "1": 31229497,
+        "3": 17340093
+      },
+      "fractions": {
+        "0": 0.5971347971639112,
+        "1": 0.2590361097010295,
+        "3": 0.14382909313505926
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "recife",
+    "scene_id": "S2B_MSIL2A_20220820T124249_R009_T25MBM_20220820T210115",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220820T124249_R009_T25MBM_20220820T210115",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/recife/S2B_MSIL2A_20220820T124249_R009_T25MBM_20220820T210115/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220820T124249_R009_T25MBM_20220820T210115/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220820T124249_R009_T25MBM_20220820T210115/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220820T124249_R009_T25MBM_20220820T210115/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 112101252,
+        "1": 5043357,
+        "2": 441512,
+        "3": 2974279
+      },
+      "fractions": {
+        "0": 0.9298347716165507,
+        "1": 0.041832616680103914,
+        "2": 0.0036621643591096247,
+        "3": 0.024670447344235753
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "recife",
+    "scene_id": "S2B_MSIL2A_20220919T124249_R009_T25MBM_20220920T042410",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220919T124249_R009_T25MBM_20220920T042410",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/recife/S2B_MSIL2A_20220919T124249_R009_T25MBM_20220920T042410/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220919T124249_R009_T25MBM_20220920T042410/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220919T124249_R009_T25MBM_20220920T042410/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220919T124249_R009_T25MBM_20220920T042410/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 78321100,
+        "1": 30182561,
+        "3": 12056739
+      },
+      "fractions": {
+        "0": 0.6496420051691932,
+        "1": 0.25035219690711047,
+        "3": 0.10000579792369634
+      },
+      "total_pixels": 120560400
+    }
+  }
+]

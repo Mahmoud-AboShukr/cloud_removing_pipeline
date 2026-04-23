@@ -1,0 +1,180 @@
+{
+  "external_root": "/media/HALLOPEAU/T7/hard_cities_S2_images",
+  "report_dir": "reports/pipeline_for_hard_cities",
+  "collection": "sentinel-2-l2a",
+  "stac_url": "https://planetarycomputer.microsoft.com/api/stac/v1",
+  "max_items": 80,
+  "cloud_cover_max": 50.0,
+  "cities_processed": [
+    {
+      "city": "João Pessoa",
+      "city_slug": "joao_pessoa",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/joao_pessoa_buffered_2500m.gpkg",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -34.953923167531336,
+        -7.240514572483089,
+        -34.77283926215765,
+        -7.038275280897172
+      ],
+      "collection": "sentinel-2-l2a",
+      "stac_url": "https://planetarycomputer.microsoft.com/api/stac/v1",
+      "search_start": "2022-10-01",
+      "search_end": "2022-12-31",
+      "search_months": [
+        10,
+        11,
+        12
+      ],
+      "cloud_cover_max": 50.0,
+      "max_items_requested": 80,
+      "n_candidates_after_search_and_filtering": 70,
+      "csv_manifest_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/joao_pessoa/joao_pessoa_candidates.csv",
+      "full_json_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/joao_pessoa/joao_pessoa_candidates_full.json",
+      "csv_manifest_repo": "reports/pipeline_for_hard_cities/joao_pessoa/joao_pessoa_candidates.csv",
+      "summary_repo": "reports/pipeline_for_hard_cities/joao_pessoa/joao_pessoa_search_summary.json"
+    },
+    {
+      "city": "Maceió",
+      "city_slug": "maceio",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/maceio_buffered_2500m.gpkg",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -35.816266528521375,
+        -9.697772468284594,
+        -35.55232614903086,
+        -9.466380057310223
+      ],
+      "collection": "sentinel-2-l2a",
+      "stac_url": "https://planetarycomputer.microsoft.com/api/stac/v1",
+      "search_start": "2022-10-01",
+      "search_end": "2022-12-31",
+      "search_months": [
+        10,
+        11,
+        12
+      ],
+      "cloud_cover_max": 50.0,
+      "max_items_requested": 80,
+      "n_candidates_after_search_and_filtering": 39,
+      "csv_manifest_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/maceio/maceio_candidates.csv",
+      "full_json_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/maceio/maceio_candidates_full.json",
+      "csv_manifest_repo": "reports/pipeline_for_hard_cities/maceio/maceio_candidates.csv",
+      "summary_repo": "reports/pipeline_for_hard_cities/maceio/maceio_search_summary.json"
+    },
+    {
+      "city": "Natal",
+      "city_slug": "natal",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/natal_buffered_2500m.gpkg",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -35.31390651161859,
+        -5.916374719644538,
+        -35.140818642628496,
+        -5.692141891535973
+      ],
+      "collection": "sentinel-2-l2a",
+      "stac_url": "https://planetarycomputer.microsoft.com/api/stac/v1",
+      "search_start": "2022-09-01",
+      "search_end": "2022-11-30",
+      "search_months": [
+        9,
+        10,
+        11
+      ],
+      "cloud_cover_max": 50.0,
+      "max_items_requested": 80,
+      "n_candidates_after_search_and_filtering": 36,
+      "csv_manifest_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/natal/natal_candidates.csv",
+      "full_json_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/natal/natal_candidates_full.json",
+      "csv_manifest_repo": "reports/pipeline_for_hard_cities/natal/natal_candidates.csv",
+      "summary_repo": "reports/pipeline_for_hard_cities/natal/natal_search_summary.json"
+    },
+    {
+      "city": "Recife",
+      "city_slug": "recife",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/recife_buffered_2500m.gpkg",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -35.01920450745616,
+        -8.1668619987393,
+        -34.84977951844344,
+        -7.932869813710839
+      ],
+      "collection": "sentinel-2-l2a",
+      "stac_url": "https://planetarycomputer.microsoft.com/api/stac/v1",
+      "search_start": "2022-10-01",
+      "search_end": "2022-12-31",
+      "search_months": [
+        10,
+        11,
+        12
+      ],
+      "cloud_cover_max": 50.0,
+      "max_items_requested": 80,
+      "n_candidates_after_search_and_filtering": 24,
+      "csv_manifest_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/recife/recife_candidates.csv",
+      "full_json_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/recife/recife_candidates_full.json",
+      "csv_manifest_repo": "reports/pipeline_for_hard_cities/recife/recife_candidates.csv",
+      "summary_repo": "reports/pipeline_for_hard_cities/recife/recife_search_summary.json"
+    },
+    {
+      "city": "Belém",
+      "city_slug": "belem",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/belem_buffered_2500m.gpkg",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -48.530255721305494,
+        -1.5016496019930898,
+        -48.305333164130644,
+        -1.0376938148044297
+      ],
+      "collection": "sentinel-2-l2a",
+      "stac_url": "https://planetarycomputer.microsoft.com/api/stac/v1",
+      "search_start": "2022-08-01",
+      "search_end": "2022-11-30",
+      "search_months": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "cloud_cover_max": 50.0,
+      "max_items_requested": 80,
+      "n_candidates_after_search_and_filtering": 26,
+      "csv_manifest_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/belem/belem_candidates.csv",
+      "full_json_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/belem/belem_candidates_full.json",
+      "csv_manifest_repo": "reports/pipeline_for_hard_cities/belem/belem_candidates.csv",
+      "summary_repo": "reports/pipeline_for_hard_cities/belem/belem_search_summary.json"
+    },
+    {
+      "city": "São Luís",
+      "city_slug": "sao_luis",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/sao_luis_buffered_2500m.gpkg",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -44.38932973556738,
+        -2.7698071759572804,
+        -44.139226133743534,
+        -2.458142865564403
+      ],
+      "collection": "sentinel-2-l2a",
+      "stac_url": "https://planetarycomputer.microsoft.com/api/stac/v1",
+      "search_start": "2022-08-01",
+      "search_end": "2022-11-30",
+      "search_months": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "cloud_cover_max": 50.0,
+      "max_items_requested": 80,
+      "n_candidates_after_search_and_filtering": 48,
+      "csv_manifest_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/sao_luis/sao_luis_candidates.csv",
+      "full_json_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/sao_luis/sao_luis_candidates_full.json",
+      "csv_manifest_repo": "reports/pipeline_for_hard_cities/sao_luis/sao_luis_candidates.csv",
+      "summary_repo": "reports/pipeline_for_hard_cities/sao_luis/sao_luis_search_summary.json"
+    }
+  ]
+}

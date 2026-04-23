@@ -1,0 +1,156 @@
+[
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B01",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R60m/T25LBL_20221029T124249_B01_60m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B01.tif",
+    "bytes_written": 6238797,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B02",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R10m/T25LBL_20221029T124249_B02_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B02.tif",
+    "bytes_written": 229903472,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B03",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R10m/T25LBL_20221029T124249_B03_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B03.tif",
+    "bytes_written": 230782469,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B04",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R10m/T25LBL_20221029T124249_B04_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B04.tif",
+    "bytes_written": 233039469,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B05",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R20m/T25LBL_20221029T124249_B05_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B05.tif",
+    "bytes_written": 60361236,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B06",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R20m/T25LBL_20221029T124249_B06_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B06.tif",
+    "bytes_written": 60755867,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B07",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R20m/T25LBL_20221029T124249_B07_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B07.tif",
+    "bytes_written": 61113873,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B08",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R10m/T25LBL_20221029T124249_B08_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B08.tif",
+    "bytes_written": 228327111,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B8A",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R20m/T25LBL_20221029T124249_B8A_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B8A.tif",
+    "bytes_written": 60931448,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B09",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R60m/T25LBL_20221029T124249_B09_60m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B09.tif",
+    "bytes_written": 6472494,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B11",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R20m/T25LBL_20221029T124249_B11_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B11.tif",
+    "bytes_written": 59599243,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "B12",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R20m/T25LBL_20221029T124249_B12_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B12.tif",
+    "bytes_written": 59252861,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "SCL",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R20m/T25LBL_20221029T124249_SCL_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/SCL.tif",
+    "bytes_written": 3020836,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "Recife",
+    "city_slug": "recife",
+    "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+    "asset_name": "visual",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/25/L/BL/2022/10/29/S2B_MSIL2A_20221029T124249_N0400_R009_T25LBL_20221029T231015.SAFE/GRANULE/L2A_T25LBL_A029493_20221029T124248/IMG_DATA/R10m/T25LBL_20221029T124249_TCI_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/visual.tif",
+    "bytes_written": 319206386,
+    "status": "downloaded",
+    "error": null
+  }
+]

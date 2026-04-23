@@ -1,0 +1,15 @@
+{
+  "city_slug": "natal",
+  "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/natal/natal_grid_spec.json",
+  "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/natal/natal_grid_template.tif",
+  "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/natal/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220216T124321_R009_T25MBP_20220224T045448/B02.tif",
+  "reference_crs": "EPSG:32725",
+  "grid_width": 1925,
+  "grid_height": 2478,
+  "snapped_bounds": [
+    243730.0,
+    9345560.0,
+    262980.0,
+    9370340.0
+  ]
+}

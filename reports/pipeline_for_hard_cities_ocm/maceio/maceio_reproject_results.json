@@ -1,0 +1,1403 @@
+[
+  {
+    "city_slug": "maceio",
+    "scene_id": "S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146",
+    "aligned_dir": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146",
+    "bands": [
+      {
+        "band_file": "B01.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B01.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B01.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B01.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B02.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B02.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B02.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B02.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B03.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B03.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B03.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B03.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B04.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B04.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B04.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B04.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B05.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B05.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B05.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B05.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B06.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B06.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B06.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B06.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B07.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B07.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B07.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B07.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B08.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B08.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B08.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B08.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B8A.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B8A.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B8A.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B8A.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B09.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B09.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B09.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B09.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B11.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B11.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B11.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B11.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B12.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B12.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B12.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B12.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      }
+    ],
+    "mask": {
+      "mask_file": "ocm_mask.tif",
+      "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/ocm_mask.tif",
+      "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/ocm_mask.tif",
+      "status": "ok",
+      "meta": {
+        "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/ocm_mask.tif",
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/ocm_mask.tif",
+        "resampling": "nearest",
+        "dst_width": 2908,
+        "dst_height": 2543,
+        "dst_crs": "EPSG:32724",
+        "dst_nodata": 255
+      }
+    },
+    "status": "ok"
+  },
+  {
+    "city_slug": "maceio",
+    "scene_id": "S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415",
+    "aligned_dir": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415",
+    "bands": [
+      {
+        "band_file": "B01.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B01.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B01.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B01.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B02.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B02.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B02.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B02.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B03.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B03.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B03.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B03.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B04.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B04.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B04.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B04.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B05.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B05.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B05.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B05.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B06.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B06.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B06.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B06.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B07.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B07.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B07.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B07.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B08.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B08.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B08.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B08.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B8A.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B8A.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B8A.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B8A.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B09.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B09.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B09.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B09.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B11.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B11.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B11.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B11.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B12.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B12.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B12.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/B12.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      }
+    ],
+    "mask": {
+      "mask_file": "ocm_mask.tif",
+      "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/ocm_mask.tif",
+      "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/ocm_mask.tif",
+      "status": "ok",
+      "meta": {
+        "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/ocm_mask.tif",
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2A_MSIL2A_20221213T124251_R009_T24LZQ_20221214T022415/ocm_mask.tif",
+        "resampling": "nearest",
+        "dst_width": 2908,
+        "dst_height": 2543,
+        "dst_crs": "EPSG:32724",
+        "dst_nodata": 255
+      }
+    },
+    "status": "ok"
+  },
+  {
+    "city_slug": "maceio",
+    "scene_id": "S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428",
+    "aligned_dir": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428",
+    "bands": [
+      {
+        "band_file": "B01.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B01.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B01.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B01.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B02.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B02.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B02.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B02.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B03.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B03.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B03.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B03.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B04.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B04.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B04.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B04.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B05.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B05.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B05.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B05.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B06.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B06.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B06.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B06.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B07.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B07.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B07.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B07.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B08.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B08.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B08.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B08.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B8A.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B8A.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B8A.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B8A.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B09.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B09.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B09.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B09.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B11.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B11.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B11.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B11.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B12.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B12.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B12.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/B12.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      }
+    ],
+    "mask": {
+      "mask_file": "ocm_mask.tif",
+      "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/ocm_mask.tif",
+      "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/ocm_mask.tif",
+      "status": "ok",
+      "meta": {
+        "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/ocm_mask.tif",
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220122T124309_R009_T24LZQ_20220123T084428/ocm_mask.tif",
+        "resampling": "nearest",
+        "dst_width": 2908,
+        "dst_height": 2543,
+        "dst_crs": "EPSG:32724",
+        "dst_nodata": 255
+      }
+    },
+    "status": "ok"
+  },
+  {
+    "city_slug": "maceio",
+    "scene_id": "S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458",
+    "aligned_dir": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458",
+    "bands": [
+      {
+        "band_file": "B01.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B01.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B01.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B01.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B02.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B02.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B02.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B02.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B03.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B03.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B03.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B03.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B04.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B04.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B04.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B04.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B05.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B05.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B05.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B05.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B06.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B06.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B06.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B06.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B07.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B07.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B07.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B07.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B08.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B08.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B08.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B08.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B8A.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B8A.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B8A.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B8A.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B09.tif",
+        "src_exists": false,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B09.tif",
+        "status": "missing_source"
+      },
+      {
+        "band_file": "B11.tif",
+        "src_exists": false,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B11.tif",
+        "status": "missing_source"
+      },
+      {
+        "band_file": "B12.tif",
+        "src_exists": false,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/B12.tif",
+        "status": "missing_source"
+      }
+    ],
+    "mask": {
+      "mask_file": "ocm_mask.tif",
+      "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/ocm_mask.tif",
+      "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/ocm_mask.tif",
+      "status": "ok",
+      "meta": {
+        "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/ocm_mask.tif",
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220201T124309_R009_T24LZQ_20220217T050458/ocm_mask.tif",
+        "resampling": "nearest",
+        "dst_width": 2908,
+        "dst_height": 2543,
+        "dst_crs": "EPSG:32724",
+        "dst_nodata": 255
+      }
+    },
+    "status": "ok"
+  },
+  {
+    "city_slug": "maceio",
+    "scene_id": "S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806",
+    "aligned_dir": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806",
+    "bands": [
+      {
+        "band_file": "B01.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B01.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B01.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B01.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B02.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B02.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B02.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B02.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B03.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B03.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B03.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B03.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B04.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B04.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B04.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B04.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B05.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B05.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B05.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B05.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B06.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B06.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B06.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B06.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B07.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B07.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B07.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B07.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B08.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B08.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B08.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B08.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B8A.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B8A.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B8A.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B8A.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B09.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B09.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B09.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B09.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B11.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B11.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B11.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B11.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B12.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B12.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B12.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/B12.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      }
+    ],
+    "mask": {
+      "mask_file": "ocm_mask.tif",
+      "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/ocm_mask.tif",
+      "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/ocm_mask.tif",
+      "status": "ok",
+      "meta": {
+        "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/ocm_mask.tif",
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20220810T124259_R009_T24LZQ_20220811T161806/ocm_mask.tif",
+        "resampling": "nearest",
+        "dst_width": 2908,
+        "dst_height": 2543,
+        "dst_crs": "EPSG:32724",
+        "dst_nodata": 255
+      }
+    },
+    "status": "ok"
+  },
+  {
+    "city_slug": "maceio",
+    "scene_id": "S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943",
+    "aligned_dir": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943",
+    "bands": [
+      {
+        "band_file": "B01.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B01.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B01.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B01.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B02.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B02.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B02.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B02.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B03.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B03.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B03.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B03.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B04.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B04.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B04.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B04.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B05.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B05.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B05.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B05.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B06.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B06.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B06.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B06.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B07.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B07.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B07.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B07.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B08.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B08.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B08.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B08.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B8A.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B8A.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B8A.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B8A.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B09.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B09.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B09.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B09.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B11.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B11.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B11.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B11.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B12.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B12.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B12.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/B12.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      }
+    ],
+    "mask": {
+      "mask_file": "ocm_mask.tif",
+      "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/ocm_mask.tif",
+      "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/ocm_mask.tif",
+      "status": "ok",
+      "meta": {
+        "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/ocm_mask.tif",
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221108T124249_R009_T24LZQ_20221109T095943/ocm_mask.tif",
+        "resampling": "nearest",
+        "dst_width": 2908,
+        "dst_height": 2543,
+        "dst_crs": "EPSG:32724",
+        "dst_nodata": 255
+      }
+    },
+    "status": "ok"
+  },
+  {
+    "city_slug": "maceio",
+    "scene_id": "S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354",
+    "aligned_dir": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354",
+    "bands": [
+      {
+        "band_file": "B01.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B01.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B01.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B01.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B02.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B02.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B02.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B02.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B03.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B03.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B03.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B03.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B04.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B04.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B04.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B04.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B05.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B05.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B05.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B05.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B06.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B06.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B06.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B06.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B07.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B07.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B07.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B07.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B08.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B08.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B08.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B08.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B8A.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B8A.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B8A.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B8A.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B09.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B09.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B09.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B09.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B11.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B11.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B11.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B11.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      },
+      {
+        "band_file": "B12.tif",
+        "src_exists": true,
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B12.tif",
+        "status": "ok",
+        "meta": {
+          "src_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B12.tif",
+          "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/B12.tif",
+          "resampling": "bilinear",
+          "dst_width": 2908,
+          "dst_height": 2543,
+          "dst_crs": "EPSG:32724",
+          "dst_nodata": 0.0
+        }
+      }
+    ],
+    "mask": {
+      "mask_file": "ocm_mask.tif",
+      "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/ocm_mask.tif",
+      "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/ocm_mask.tif",
+      "status": "ok",
+      "meta": {
+        "src_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/ocm_mask.tif",
+        "dst_path": "/media/HALLOPEAU/T7/ocm_v1_outputs/aligned/maceio/S2B_MSIL2A_20221208T124249_R009_T24LZQ_20221209T084354/ocm_mask.tif",
+        "resampling": "nearest",
+        "dst_width": 2908,
+        "dst_height": 2543,
+        "dst_crs": "EPSG:32724",
+        "dst_nodata": 255
+      }
+    },
+    "status": "ok"
+  }
+]

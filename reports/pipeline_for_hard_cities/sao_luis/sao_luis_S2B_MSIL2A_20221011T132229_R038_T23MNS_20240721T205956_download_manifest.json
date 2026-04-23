@@ -1,0 +1,156 @@
+[
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B01",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R60m/T23MNS_20221011T132229_B01_60m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B01.tif",
+    "bytes_written": 7990988,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B02",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R10m/T23MNS_20221011T132229_B02_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B02.tif",
+    "bytes_written": 274158286,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B03",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R10m/T23MNS_20221011T132229_B03_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B03.tif",
+    "bytes_written": 275131913,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B04",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R10m/T23MNS_20221011T132229_B04_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B04.tif",
+    "bytes_written": 277559967,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B05",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B05_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B05.tif",
+    "bytes_written": 72823671,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B06",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B06_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B06.tif",
+    "bytes_written": 73793782,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B07",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B07_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B07.tif",
+    "bytes_written": 73750737,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B08",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R10m/T23MNS_20221011T132229_B08_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B08.tif",
+    "bytes_written": 279261750,
+    "status": "downloaded",
+    "error": null
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B8A",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B8A_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B8A.tif",
+    "bytes_written": 0,
+    "status": "failed",
+    "error": "403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B8A_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D"
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B09",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R60m/T23MNS_20221011T132229_B09_60m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B09.tif",
+    "bytes_written": 0,
+    "status": "failed",
+    "error": "403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R60m/T23MNS_20221011T132229_B09_60m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D"
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B11",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B11_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B11.tif",
+    "bytes_written": 0,
+    "status": "failed",
+    "error": "403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B11_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D"
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "B12",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B12_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B12.tif",
+    "bytes_written": 0,
+    "status": "failed",
+    "error": "403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_B12_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D"
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "SCL",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_SCL_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/SCL.tif",
+    "bytes_written": 0,
+    "status": "failed",
+    "error": "403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R20m/T23MNS_20221011T132229_SCL_20m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D"
+  },
+  {
+    "city": "São Luís",
+    "city_slug": "sao_luis",
+    "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+    "asset_name": "visual",
+    "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R10m/T23MNS_20221011T132229_TCI_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D",
+    "local_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/visual.tif",
+    "bytes_written": 0,
+    "status": "failed",
+    "error": "403 Client Error: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. for url: https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/23/M/NS/2022/10/11/S2B_MSIL2A_20221011T132229_N0510_R038_T23MNS_20240721T205956.SAFE/GRANULE/L2A_T23MNS_A029236_20221011T132231/IMG_DATA/R10m/T23MNS_20221011T132229_TCI_10m.tif?st=2026-04-20T09%3A03%3A24Z&se=2026-04-21T09%3A48%3A24Z&sp=rl&sv=2025-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-04-20T22%3A23%3A56Z&ske=2026-04-27T22%3A23%3A56Z&sks=b&skv=2025-07-05&sig=zSL%2BbsTrUK1BFlZKkXFdjymGZ8/mLRCxVEFO99lwnYM%3D"
+  }
+]

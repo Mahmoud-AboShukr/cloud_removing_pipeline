@@ -1,0 +1,52 @@
+{
+  "city_slug": "natal",
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/natal_buffered_2500m.gpkg",
+  "n_inventory_rows": 7,
+  "n_valid_ocm_scenes": 7,
+  "reference_scene_dir": "/media/HALLOPEAU/T7/raw_backup/natal/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220216T124321_R009_T25MBP_20220224T045448",
+  "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/natal/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220216T124321_R009_T25MBP_20220224T045448/B02.tif",
+  "reference_crs": "EPSG:32725",
+  "reference_transform": [
+    10.0,
+    0.0,
+    199980.0,
+    0.0,
+    -10.0,
+    9400000.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "reference_res_x": 10.0,
+  "reference_res_y": 10.0,
+  "reference_width": 10980,
+  "reference_height": 10980,
+  "reference_dtype": "uint16",
+  "reference_nodata": 0.0,
+  "aoi_bounds_in_reference_crs": [
+    243730.6923860424,
+    9345569.89351108,
+    262975.36847352167,
+    9370339.218174089
+  ],
+  "snapped_bounds": [
+    243730.0,
+    9345560.0,
+    262980.0,
+    9370340.0
+  ],
+  "grid_width": 1925,
+  "grid_height": 2478,
+  "grid_transform": [
+    10.0,
+    0.0,
+    243730.0,
+    0.0,
+    -10.0,
+    9370340.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "grid_nodata": 0
+}

@@ -1,0 +1,238 @@
+[
+  {
+    "city_slug": "duque_de_caxias",
+    "scene_id": "S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/duque_de_caxias/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 119952663,
+        "1": 369232,
+        "3": 238505
+      },
+      "fractions": {
+        "0": 0.994959066161028,
+        "1": 0.0030626308472765516,
+        "3": 0.0019783029916954488
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "duque_de_caxias",
+    "scene_id": "S2A_MSIL2A_20221209T130251_R095_T23KPQ_20221210T101354",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221209T130251_R095_T23KPQ_20221210T101354",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/duque_de_caxias/S2A_MSIL2A_20221209T130251_R095_T23KPQ_20221210T101354/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221209T130251_R095_T23KPQ_20221210T101354/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221209T130251_R095_T23KPQ_20221210T101354/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20221209T130251_R095_T23KPQ_20221210T101354/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 118868251,
+        "1": 1356275,
+        "2": 38664,
+        "3": 297210
+      },
+      "fractions": {
+        "0": 0.9859643050288486,
+        "1": 0.0112497553093719,
+        "2": 0.00032070232016483027,
+        "3": 0.0024652373416146596
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "duque_de_caxias",
+    "scene_id": "S2B_MSIL2A_20220118T130239_R095_T23KPQ_20220119T075413",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220118T130239_R095_T23KPQ_20220119T075413",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/duque_de_caxias/S2B_MSIL2A_20220118T130239_R095_T23KPQ_20220119T075413/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220118T130239_R095_T23KPQ_20220119T075413/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220118T130239_R095_T23KPQ_20220119T075413/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220118T130239_R095_T23KPQ_20220119T075413/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 120457605,
+        "1": 65563,
+        "3": 37232
+      },
+      "fractions": {
+        "0": 0.9991473568435406,
+        "1": 0.0005438187000043131,
+        "3": 0.0003088244564550217
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "duque_de_caxias",
+    "scene_id": "S2B_MSIL2A_20220309T130249_R095_T23KPQ_20220310T105932",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220309T130249_R095_T23KPQ_20220310T105932",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/duque_de_caxias/S2B_MSIL2A_20220309T130249_R095_T23KPQ_20220310T105932/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220309T130249_R095_T23KPQ_20220310T105932/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220309T130249_R095_T23KPQ_20220310T105932/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220309T130249_R095_T23KPQ_20220310T105932/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 120306114,
+        "1": 156222,
+        "2": 15,
+        "3": 98049
+      },
+      "fractions": {
+        "0": 0.9978907999641673,
+        "1": 0.0012957986204425334,
+        "2": 1.2441896344073178e-07,
+        "3": 0.0008132769964266874
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "duque_de_caxias",
+    "scene_id": "S2B_MSIL2A_20220428T130239_R095_T23KPQ_20220429T070446",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220428T130239_R095_T23KPQ_20220429T070446",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/duque_de_caxias/S2B_MSIL2A_20220428T130239_R095_T23KPQ_20220429T070446/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220428T130239_R095_T23KPQ_20220429T070446/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220428T130239_R095_T23KPQ_20220429T070446/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220428T130239_R095_T23KPQ_20220429T070446/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 120559339,
+        "1": 927,
+        "3": 134
+      },
+      "fractions": {
+        "0": 0.999991199431986,
+        "1": 7.689091940637224e-06,
+        "3": 1.1114760734038706e-06
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "duque_de_caxias",
+    "scene_id": "S2B_MSIL2A_20220518T130249_R095_T23KPQ_20220520T090139",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220518T130249_R095_T23KPQ_20220520T090139",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/duque_de_caxias/S2B_MSIL2A_20220518T130249_R095_T23KPQ_20220520T090139/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220518T130249_R095_T23KPQ_20220520T090139/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220518T130249_R095_T23KPQ_20220520T090139/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220518T130249_R095_T23KPQ_20220520T090139/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 120267709,
+        "1": 148376,
+        "2": 48714,
+        "3": 95601
+      },
+      "fractions": {
+        "0": 0.9975722459447712,
+        "1": 0.0012307192079654679,
+        "2": 0.0004040630256701205,
+        "3": 0.00079297182159316
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "duque_de_caxias",
+    "scene_id": "S2B_MSIL2A_20220617T130249_R095_T23KPQ_20220619T175605",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220617T130249_R095_T23KPQ_20220619T175605",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/duque_de_caxias/S2B_MSIL2A_20220617T130249_R095_T23KPQ_20220619T175605/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220617T130249_R095_T23KPQ_20220619T175605/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220617T130249_R095_T23KPQ_20220619T175605/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220617T130249_R095_T23KPQ_20220619T175605/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 119969765,
+        "1": 564030,
+        "2": 5707,
+        "3": 20898
+      },
+      "fractions": {
+        "0": 0.9951009203685456,
+        "1": 0.004678401863298397,
+        "2": 4.733726829041709e-05,
+        "3": 0.00017334049986562753
+      },
+      "total_pixels": 120560400
+    }
+  }
+]

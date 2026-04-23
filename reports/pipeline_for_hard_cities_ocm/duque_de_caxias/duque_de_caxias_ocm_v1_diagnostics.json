@@ -1,0 +1,127 @@
+{
+  "city_slug": "duque_de_caxias",
+  "n_scene_dirs_discovered": 7,
+  "n_scene_dirs_valid": 7,
+  "dilate_iters": 3,
+  "max_hole_pixels": 1500,
+  "total_pixels": 5075754,
+  "unresolved_pixels": 231486,
+  "unresolved_ratio": 0.04560622914349277,
+  "scene_diagnostics": [
+    {
+      "scene_id": "S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348",
+      "total_pixels": 5075754,
+      "valid_pixels": 4844117,
+      "valid_fraction": 0.9543640215818182,
+      "bad_dilated_pixels": 151,
+      "bad_dilated_fraction": 2.9749274689041274e-05
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20221209T130251_R095_T23KPQ_20221210T101354",
+      "total_pixels": 5075754,
+      "valid_pixels": 4829421,
+      "valid_fraction": 0.951468688198837,
+      "bad_dilated_pixels": 14847,
+      "bad_dilated_fraction": 0.0029250826576701708
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220118T130239_R095_T23KPQ_20220119T075413",
+      "total_pixels": 5075754,
+      "valid_pixels": 4843975,
+      "valid_fraction": 0.9543360454427067,
+      "bad_dilated_pixels": 293,
+      "bad_dilated_fraction": 5.772541380059002e-05
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220309T130249_R095_T23KPQ_20220310T105932",
+      "total_pixels": 5075754,
+      "valid_pixels": 4840282,
+      "valid_fraction": 0.9536084688107422,
+      "bad_dilated_pixels": 4037,
+      "bad_dilated_fraction": 0.000795349814037481
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220428T130239_R095_T23KPQ_20220429T070446",
+      "total_pixels": 5075754,
+      "valid_pixels": 4844223,
+      "valid_fraction": 0.9543849051786197,
+      "bad_dilated_pixels": 45,
+      "bad_dilated_fraction": 8.86567788746263e-06
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220518T130249_R095_T23KPQ_20220520T090139",
+      "total_pixels": 5075754,
+      "valid_pixels": 4843798,
+      "valid_fraction": 0.9543011737763493,
+      "bad_dilated_pixels": 470,
+      "bad_dilated_fraction": 9.259708015794304e-05
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220617T130249_R095_T23KPQ_20220619T175605",
+      "total_pixels": 5075754,
+      "valid_pixels": 4199674,
+      "valid_fraction": 0.8273990425855942,
+      "bad_dilated_pixels": 644594,
+      "bad_dilated_fraction": 0.12699472827091304
+    }
+  ],
+  "output_files": {
+    "composite_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/duque_de_caxias/duque_de_caxias_ocm_v1_composite.tif",
+    "composite_filled_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/duque_de_caxias/duque_de_caxias_ocm_v1_composite_smallholes_filled.tif",
+    "observation_count_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/duque_de_caxias/duque_de_caxias_ocm_v1_observation_count.tif",
+    "cloudmask_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/duque_de_caxias/duque_de_caxias_ocm_v1_cloudmask.tif",
+    "small_holes_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/duque_de_caxias/duque_de_caxias_ocm_v1_small_holes_mask.tif"
+  },
+  "grid_spec": {
+    "city_slug": "duque_de_caxias",
+    "aoi_path": "data/interim/aoi_buffered_hard_cities/duque_de_caxias_buffered_2500m.gpkg",
+    "n_inventory_rows": 7,
+    "n_valid_ocm_scenes": 7,
+    "reference_scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348",
+    "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348/B02.tif",
+    "reference_crs": "EPSG:32723",
+    "reference_transform": [
+      10.0,
+      0.0,
+      600000.0,
+      0.0,
+      -10.0,
+      7500040.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "reference_res_x": 10.0,
+    "reference_res_y": 10.0,
+    "reference_width": 10980,
+    "reference_height": 10980,
+    "reference_dtype": "uint16",
+    "reference_nodata": 0.0,
+    "aoi_bounds_in_reference_crs": [
+      668820.1859257788,
+      7474306.968587248,
+      687632.4427204356,
+      7501261.842500843
+    ],
+    "snapped_bounds": [
+      668820.0,
+      7474300.0,
+      687640.0,
+      7501270.0
+    ],
+    "grid_width": 1882,
+    "grid_height": 2697,
+    "grid_transform": [
+      10.0,
+      0.0,
+      668820.0,
+      0.0,
+      -10.0,
+      7501270.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "grid_nodata": 0
+  }
+}

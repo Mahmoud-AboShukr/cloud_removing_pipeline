@@ -1,0 +1,52 @@
+{
+  "city_slug": "recife",
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/recife_buffered_2500m.gpkg",
+  "n_inventory_rows": 7,
+  "n_valid_ocm_scenes": 7,
+  "reference_scene_dir": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638",
+  "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638/B02.tif",
+  "reference_crs": "EPSG:32725",
+  "reference_transform": [
+    10.0,
+    0.0,
+    199980.0,
+    0.0,
+    -10.0,
+    9200020.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "reference_res_x": 10.0,
+  "reference_res_y": 10.0,
+  "reference_width": 10980,
+  "reference_height": 10980,
+  "reference_dtype": "uint16",
+  "reference_nodata": 0.0,
+  "aoi_bounds_in_reference_crs": [
+    277460.4344892887,
+    9096755.978678532,
+    296141.35929648177,
+    9122633.959606111
+  ],
+  "snapped_bounds": [
+    277460.0,
+    9096750.0,
+    296150.0,
+    9122640.0
+  ],
+  "grid_width": 1869,
+  "grid_height": 2589,
+  "grid_transform": [
+    10.0,
+    0.0,
+    277460.0,
+    0.0,
+    -10.0,
+    9122640.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "grid_nodata": 0
+}

@@ -1,0 +1,108 @@
+{
+  "cities": [
+    {
+      "city": "João Pessoa",
+      "city_slug": "joao_pessoa",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/joao_pessoa_buffered_2500m.gpkg",
+      "candidate_csv": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/joao_pessoa/joao_pessoa_candidates.csv",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "dilation_iters": 2,
+      "n_candidates_input": 70,
+      "n_candidates_ranked": 49,
+      "n_candidates_failed": 21,
+      "best_scene_item_id": "S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344",
+      "best_scene_score": 0.7393016329652955
+    },
+    {
+      "city": "Maceió",
+      "city_slug": "maceio",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/maceio_buffered_2500m.gpkg",
+      "candidate_csv": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/maceio/maceio_candidates.csv",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "dilation_iters": 2,
+      "n_candidates_input": 39,
+      "n_candidates_ranked": 39,
+      "n_candidates_failed": 0,
+      "best_scene_item_id": "S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551",
+      "best_scene_score": 0.7853370522903519
+    },
+    {
+      "city": "Natal",
+      "city_slug": "natal",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/natal_buffered_2500m.gpkg",
+      "candidate_csv": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/natal/natal_candidates.csv",
+      "season_months": [
+        9,
+        10,
+        11
+      ],
+      "dilation_iters": 2,
+      "n_candidates_input": 36,
+      "n_candidates_ranked": 36,
+      "n_candidates_failed": 0,
+      "best_scene_item_id": "S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044",
+      "best_scene_score": 0.7051334493263438
+    },
+    {
+      "city": "Recife",
+      "city_slug": "recife",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/recife_buffered_2500m.gpkg",
+      "candidate_csv": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/recife/recife_candidates.csv",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "dilation_iters": 2,
+      "n_candidates_input": 24,
+      "n_candidates_ranked": 24,
+      "n_candidates_failed": 0,
+      "best_scene_item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+      "best_scene_score": 0.7626548168055938
+    },
+    {
+      "city": "Belém",
+      "city_slug": "belem",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/belem_buffered_2500m.gpkg",
+      "candidate_csv": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/belem/belem_candidates.csv",
+      "season_months": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "dilation_iters": 2,
+      "n_candidates_input": 26,
+      "n_candidates_ranked": 26,
+      "n_candidates_failed": 0,
+      "best_scene_item_id": "S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924",
+      "best_scene_score": 0.6884707073537902
+    },
+    {
+      "city": "São Luís",
+      "city_slug": "sao_luis",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/sao_luis_buffered_2500m.gpkg",
+      "candidate_csv": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/sao_luis/sao_luis_candidates.csv",
+      "season_months": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "dilation_iters": 2,
+      "n_candidates_input": 48,
+      "n_candidates_ranked": 48,
+      "n_candidates_failed": 0,
+      "best_scene_item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+      "best_scene_score": 0.7552837101018314
+    }
+  ]
+}

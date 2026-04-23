@@ -1,0 +1,21 @@
+{
+  "city_slug": "sao_luis",
+  "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+  "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3",
+  "aoi_found": true,
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/sao_luis_buffered_2500m.gpkg",
+  "n_scene_dirs": 6,
+  "n_with_required_ocm_inputs": 6,
+  "n_with_all_12_bands": 6,
+  "n_with_scl": 6,
+  "status": "ok",
+  "discovery_mode": "recursive_search_for_B03_B04_B08",
+  "aoi_crs": "EPSG:4326",
+  "aoi_bounds": [
+    -44.38932973556738,
+    -2.7698071759572804,
+    -44.139226133743534,
+    -2.458142865564403
+  ],
+  "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/sao_luis_scene_inventory.csv"
+}

@@ -1,0 +1,52 @@
+{
+  "city_slug": "duque_de_caxias",
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/duque_de_caxias_buffered_2500m.gpkg",
+  "n_inventory_rows": 7,
+  "n_valid_ocm_scenes": 7,
+  "reference_scene_dir": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348",
+  "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348/B02.tif",
+  "reference_crs": "EPSG:32723",
+  "reference_transform": [
+    10.0,
+    0.0,
+    600000.0,
+    0.0,
+    -10.0,
+    7500040.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "reference_res_x": 10.0,
+  "reference_res_y": 10.0,
+  "reference_width": 10980,
+  "reference_height": 10980,
+  "reference_dtype": "uint16",
+  "reference_nodata": 0.0,
+  "aoi_bounds_in_reference_crs": [
+    668820.1859257788,
+    7474306.968587248,
+    687632.4427204356,
+    7501261.842500843
+  ],
+  "snapped_bounds": [
+    668820.0,
+    7474300.0,
+    687640.0,
+    7501270.0
+  ],
+  "grid_width": 1882,
+  "grid_height": 2697,
+  "grid_transform": [
+    10.0,
+    0.0,
+    668820.0,
+    0.0,
+    -10.0,
+    7501270.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "grid_nodata": 0
+}

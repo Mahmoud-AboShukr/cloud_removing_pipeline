@@ -1,0 +1,625 @@
+{
+  "aoi_dir": "data/interim/aoi_buffered_hard_cities",
+  "report_dir": "reports/pipeline_for_hard_cities",
+  "external_root": "/media/HALLOPEAU/T7/hard_cities_S2_images",
+  "include_visual": true,
+  "make_clipped_products": true,
+  "overwrite": false,
+  "cities": [
+    {
+      "city": "João Pessoa",
+      "city_slug": "joao_pessoa",
+      "item_id": "S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344",
+      "best_scene_json": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/joao_pessoa/joao_pessoa_best_scene.json",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/joao_pessoa_buffered_2500m.gpkg",
+      "download_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344",
+      "clipped_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi",
+      "assets_requested": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06",
+        "B07",
+        "B08",
+        "B8A",
+        "B09",
+        "B11",
+        "B12",
+        "SCL",
+        "visual"
+      ],
+      "n_assets_requested": 14,
+      "n_assets_ok": 14,
+      "n_assets_failed": 0,
+      "include_visual": true,
+      "make_clipped_products": true,
+      "clipped_products": [
+        {
+          "asset_name": "B02",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B02_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B02.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B02_clipped.tif",
+            "shape": [
+              1,
+              77,
+              2000
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "B03",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B03_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B03.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B03_clipped.tif",
+            "shape": [
+              1,
+              77,
+              2000
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "B04",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B04_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/B04.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/B04_clipped.tif",
+            "shape": [
+              1,
+              77,
+              2000
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "SCL",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/SCL_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/SCL.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/SCL_clipped.tif",
+            "shape": [
+              1,
+              39,
+              1001
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "RGB_quicklook",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/RGB_clipped_quicklook.tif",
+          "status": "ok",
+          "meta": {
+            "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa/S2A_MSIL2A_20221004T124301_R009_T25MBM_20240712T170344/clipped_to_aoi/RGB_clipped_quicklook.tif",
+            "shape": [
+              3,
+              77,
+              2000
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "city": "Maceió",
+      "city_slug": "maceio",
+      "item_id": "S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551",
+      "best_scene_json": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/maceio/maceio_best_scene.json",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/maceio_buffered_2500m.gpkg",
+      "download_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551",
+      "clipped_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi",
+      "assets_requested": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06",
+        "B07",
+        "B08",
+        "B8A",
+        "B09",
+        "B11",
+        "B12",
+        "SCL",
+        "visual"
+      ],
+      "n_assets_requested": 14,
+      "n_assets_ok": 14,
+      "n_assets_failed": 0,
+      "include_visual": true,
+      "make_clipped_products": true,
+      "clipped_products": [
+        {
+          "asset_name": "B02",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/B02_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/B02.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/B02_clipped.tif",
+            "shape": [
+              1,
+              2578,
+              1979
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "B03",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/B03_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/B03.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/B03_clipped.tif",
+            "shape": [
+              1,
+              2578,
+              1979
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "B04",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/B04_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/B04.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/B04_clipped.tif",
+            "shape": [
+              1,
+              2578,
+              1979
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "SCL",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/SCL_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/SCL.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/SCL_clipped.tif",
+            "shape": [
+              1,
+              1289,
+              990
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "RGB_quicklook",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/RGB_clipped_quicklook.tif",
+          "status": "ok",
+          "meta": {
+            "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio/S2A_MSIL2A_20221123T124251_R009_T25LBK_20221124T001551/clipped_to_aoi/RGB_clipped_quicklook.tif",
+            "shape": [
+              3,
+              2578,
+              1979
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "city": "Natal",
+      "city_slug": "natal",
+      "item_id": "S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044",
+      "best_scene_json": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/natal/natal_best_scene.json",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/natal_buffered_2500m.gpkg",
+      "download_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044",
+      "clipped_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi",
+      "assets_requested": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06",
+        "B07",
+        "B08",
+        "B8A",
+        "B09",
+        "B11",
+        "B12",
+        "SCL",
+        "visual"
+      ],
+      "n_assets_requested": 14,
+      "n_assets_ok": 14,
+      "n_assets_failed": 0,
+      "include_visual": true,
+      "make_clipped_products": true,
+      "clipped_products": [
+        {
+          "asset_name": "B02",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/B02_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/B02.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/B02_clipped.tif",
+            "shape": [
+              1,
+              2478,
+              1925
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "B03",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/B03_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/B03.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/B03_clipped.tif",
+            "shape": [
+              1,
+              2478,
+              1925
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "B04",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/B04_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/B04.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/B04_clipped.tif",
+            "shape": [
+              1,
+              2478,
+              1925
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "SCL",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/SCL_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/SCL.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/SCL_clipped.tif",
+            "shape": [
+              1,
+              1239,
+              963
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "RGB_quicklook",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/RGB_clipped_quicklook.tif",
+          "status": "ok",
+          "meta": {
+            "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal/S2A_MSIL2A_20221123T124251_R009_T25MBP_20221123T231044/clipped_to_aoi/RGB_clipped_quicklook.tif",
+            "shape": [
+              3,
+              2478,
+              1925
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "city": "Recife",
+      "city_slug": "recife",
+      "item_id": "S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+      "best_scene_json": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/recife/recife_best_scene.json",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/recife_buffered_2500m.gpkg",
+      "download_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015",
+      "clipped_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi",
+      "assets_requested": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06",
+        "B07",
+        "B08",
+        "B8A",
+        "B09",
+        "B11",
+        "B12",
+        "SCL",
+        "visual"
+      ],
+      "n_assets_requested": 14,
+      "n_assets_ok": 14,
+      "n_assets_failed": 0,
+      "include_visual": true,
+      "make_clipped_products": true,
+      "clipped_products": [
+        {
+          "asset_name": "B02",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/B02_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B02.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/B02_clipped.tif",
+            "shape": [
+              1,
+              325,
+              1869
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "B03",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/B03_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B03.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/B03_clipped.tif",
+            "shape": [
+              1,
+              325,
+              1869
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "B04",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/B04_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/B04.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/B04_clipped.tif",
+            "shape": [
+              1,
+              325,
+              1869
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "SCL",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/SCL_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/SCL.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/SCL_clipped.tif",
+            "shape": [
+              1,
+              163,
+              935
+            ],
+            "crs": "EPSG:32725"
+          }
+        },
+        {
+          "asset_name": "RGB_quicklook",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/RGB_clipped_quicklook.tif",
+          "status": "ok",
+          "meta": {
+            "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife/S2B_MSIL2A_20221029T124249_R009_T25LBL_20221029T231015/clipped_to_aoi/RGB_clipped_quicklook.tif",
+            "shape": [
+              3,
+              325,
+              1869
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "city": "Belém",
+      "city_slug": "belem",
+      "item_id": "S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924",
+      "best_scene_json": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/belem/belem_best_scene.json",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/belem_buffered_2500m.gpkg",
+      "download_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924",
+      "clipped_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi",
+      "assets_requested": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06",
+        "B07",
+        "B08",
+        "B8A",
+        "B09",
+        "B11",
+        "B12",
+        "SCL",
+        "visual"
+      ],
+      "n_assets_requested": 14,
+      "n_assets_ok": 14,
+      "n_assets_failed": 0,
+      "include_visual": true,
+      "make_clipped_products": true,
+      "clipped_products": [
+        {
+          "asset_name": "B02",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/B02_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/B02.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/B02_clipped.tif",
+            "shape": [
+              1,
+              5134,
+              2510
+            ],
+            "crs": "EPSG:32722"
+          }
+        },
+        {
+          "asset_name": "B03",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/B03_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/B03.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/B03_clipped.tif",
+            "shape": [
+              1,
+              5134,
+              2510
+            ],
+            "crs": "EPSG:32722"
+          }
+        },
+        {
+          "asset_name": "B04",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/B04_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/B04.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/B04_clipped.tif",
+            "shape": [
+              1,
+              5134,
+              2510
+            ],
+            "crs": "EPSG:32722"
+          }
+        },
+        {
+          "asset_name": "SCL",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/SCL_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/SCL.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/SCL_clipped.tif",
+            "shape": [
+              1,
+              2568,
+              1256
+            ],
+            "crs": "EPSG:32722"
+          }
+        },
+        {
+          "asset_name": "RGB_quicklook",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/RGB_clipped_quicklook.tif",
+          "status": "ok",
+          "meta": {
+            "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem/S2A_MSIL2A_20220823T133851_R124_T22MGD_20220824T161924/clipped_to_aoi/RGB_clipped_quicklook.tif",
+            "shape": [
+              3,
+              5134,
+              2510
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "city": "São Luís",
+      "city_slug": "sao_luis",
+      "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+      "best_scene_json": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/sao_luis/sao_luis_best_scene.json",
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/sao_luis_buffered_2500m.gpkg",
+      "download_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+      "clipped_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi",
+      "assets_requested": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06",
+        "B07",
+        "B08",
+        "B8A",
+        "B09",
+        "B11",
+        "B12",
+        "SCL",
+        "visual"
+      ],
+      "n_assets_requested": 14,
+      "n_assets_ok": 8,
+      "n_assets_failed": 6,
+      "include_visual": true,
+      "make_clipped_products": true,
+      "clipped_products": [
+        {
+          "asset_name": "B02",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B02_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B02.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B02_clipped.tif",
+            "shape": [
+              1,
+              617,
+              2782
+            ],
+            "crs": "EPSG:32723"
+          }
+        },
+        {
+          "asset_name": "B03",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B03_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B03.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B03_clipped.tif",
+            "shape": [
+              1,
+              617,
+              2782
+            ],
+            "crs": "EPSG:32723"
+          }
+        },
+        {
+          "asset_name": "B04",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B04_clipped.tif",
+          "status": "ok",
+          "meta": {
+            "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B04.tif",
+            "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B04_clipped.tif",
+            "shape": [
+              1,
+              617,
+              2782
+            ],
+            "crs": "EPSG:32723"
+          }
+        },
+        {
+          "asset_name": "RGB_quicklook",
+          "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/RGB_clipped_quicklook.tif",
+          "status": "ok",
+          "meta": {
+            "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/RGB_clipped_quicklook.tif",
+            "shape": [
+              3,
+              617,
+              2782
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

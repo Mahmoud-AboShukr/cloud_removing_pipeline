@@ -1,0 +1,87 @@
+Brazil 26 Cities - Sentinel-2 V3 Batch Run Summary
+========================================================
+
+Run timestamp UTC: 2026-04-16T15:21:41.107562+00:00
+Stages: download
+Cities requested: 26
+
+Successful cities: 26
+Failed cities: 0
+
+São Paulo (sao_paulo) - SUCCESS
+  - download: OK | 1.34s | log=logs/brazil_26cities_2022_s2_multiscene_v3/sao_paulo/download.log
+
+Rio de Janeiro (rio) - SUCCESS
+  - download: OK | 1.12s | log=logs/brazil_26cities_2022_s2_multiscene_v3/rio_de_janeiro/download.log
+
+Brasília (brasilia) - SUCCESS
+  - download: OK | 1.02s | log=logs/brazil_26cities_2022_s2_multiscene_v3/brasilia/download.log
+
+Fortaleza (fortaleza) - SUCCESS
+  - download: OK | 0.74s | log=logs/brazil_26cities_2022_s2_multiscene_v3/fortaleza/download.log
+
+Salvador (salvador) - SUCCESS
+  - download: OK | 0.96s | log=logs/brazil_26cities_2022_s2_multiscene_v3/salvador/download.log
+
+Belo Horizonte (belo_horizonte) - SUCCESS
+  - download: OK | 0.98s | log=logs/brazil_26cities_2022_s2_multiscene_v3/belo_horizonte/download.log
+
+Manaus (manaus) - SUCCESS
+  - download: OK | 0.78s | log=logs/brazil_26cities_2022_s2_multiscene_v3/manaus/download.log
+
+Curitiba (curitiba) - SUCCESS
+  - download: OK | 0.97s | log=logs/brazil_26cities_2022_s2_multiscene_v3/curitiba/download.log
+
+Recife (recife) - SUCCESS
+  - download: OK | 0.78s | log=logs/brazil_26cities_2022_s2_multiscene_v3/recife/download.log
+
+Goiânia (goiania) - SUCCESS
+  - download: OK | 0.81s | log=logs/brazil_26cities_2022_s2_multiscene_v3/goiania/download.log
+
+Belém (belem) - SUCCESS
+  - download: OK | 0.86s | log=logs/brazil_26cities_2022_s2_multiscene_v3/belem/download.log
+
+Porto Alegre (porto_alegre) - SUCCESS
+  - download: OK | 0.77s | log=logs/brazil_26cities_2022_s2_multiscene_v3/porto_alegre/download.log
+
+Guarulhos (guarulhos) - SUCCESS
+  - download: OK | 0.93s | log=logs/brazil_26cities_2022_s2_multiscene_v3/guarulhos/download.log
+
+Campinas (campinas) - SUCCESS
+  - download: OK | 0.75s | log=logs/brazil_26cities_2022_s2_multiscene_v3/campinas/download.log
+
+São Luís (sao_luis) - SUCCESS
+  - download: OK | 1.05s | log=logs/brazil_26cities_2022_s2_multiscene_v3/sao_luis/download.log
+
+Maceió (maceio) - SUCCESS
+  - download: OK | 0.93s | log=logs/brazil_26cities_2022_s2_multiscene_v3/maceio/download.log
+
+Campo Grande (campo_grande) - SUCCESS
+  - download: OK | 0.97s | log=logs/brazil_26cities_2022_s2_multiscene_v3/campo_grande/download.log
+
+São Gonçalo (sao_goncalo) - SUCCESS
+  - download: OK | 0.72s | log=logs/brazil_26cities_2022_s2_multiscene_v3/sao_goncalo/download.log
+
+Teresina (teresina) - SUCCESS
+  - download: OK | 1.10s | log=logs/brazil_26cities_2022_s2_multiscene_v3/teresina/download.log
+
+João Pessoa (joao_pessoa) - SUCCESS
+  - download: OK | 0.74s | log=logs/brazil_26cities_2022_s2_multiscene_v3/joao_pessoa/download.log
+
+Duque de Caxias (duque_de_caxias) - SUCCESS
+  - download: OK | 0.74s | log=logs/brazil_26cities_2022_s2_multiscene_v3/duque_de_caxias/download.log
+
+Nova Iguaçu (nova_iguacu) - SUCCESS
+  - download: OK | 0.72s | log=logs/brazil_26cities_2022_s2_multiscene_v3/nova_iguacu/download.log
+
+São Bernardo do Campo (sao_bernardo_do_campo) - SUCCESS
+  - download: OK | 1.05s | log=logs/brazil_26cities_2022_s2_multiscene_v3/sao_bernardo_do_campo/download.log
+
+Natal (natal) - SUCCESS
+  - download: OK | 0.77s | log=logs/brazil_26cities_2022_s2_multiscene_v3/natal/download.log
+
+Santo André (santo_andre) - SUCCESS
+  - download: OK | 0.73s | log=logs/brazil_26cities_2022_s2_multiscene_v3/santo_andre/download.log
+
+Sorocaba (sorocaba) - SUCCESS
+  - download: OK | 0.75s | log=logs/brazil_26cities_2022_s2_multiscene_v3/sorocaba/download.log

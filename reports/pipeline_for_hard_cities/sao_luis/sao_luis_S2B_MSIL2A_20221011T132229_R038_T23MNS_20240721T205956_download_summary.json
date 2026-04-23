@@ -1,0 +1,90 @@
+{
+  "city": "São Luís",
+  "city_slug": "sao_luis",
+  "item_id": "S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+  "best_scene_json": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/sao_luis/sao_luis_best_scene.json",
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/sao_luis_buffered_2500m.gpkg",
+  "download_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956",
+  "clipped_root": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi",
+  "assets_requested": [
+    "B01",
+    "B02",
+    "B03",
+    "B04",
+    "B05",
+    "B06",
+    "B07",
+    "B08",
+    "B8A",
+    "B09",
+    "B11",
+    "B12",
+    "SCL",
+    "visual"
+  ],
+  "n_assets_requested": 14,
+  "n_assets_ok": 8,
+  "n_assets_failed": 6,
+  "include_visual": true,
+  "make_clipped_products": true,
+  "clipped_products": [
+    {
+      "asset_name": "B02",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B02_clipped.tif",
+      "status": "ok",
+      "meta": {
+        "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B02.tif",
+        "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B02_clipped.tif",
+        "shape": [
+          1,
+          617,
+          2782
+        ],
+        "crs": "EPSG:32723"
+      }
+    },
+    {
+      "asset_name": "B03",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B03_clipped.tif",
+      "status": "ok",
+      "meta": {
+        "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B03.tif",
+        "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B03_clipped.tif",
+        "shape": [
+          1,
+          617,
+          2782
+        ],
+        "crs": "EPSG:32723"
+      }
+    },
+    {
+      "asset_name": "B04",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B04_clipped.tif",
+      "status": "ok",
+      "meta": {
+        "input_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/B04.tif",
+        "output_raster": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/B04_clipped.tif",
+        "shape": [
+          1,
+          617,
+          2782
+        ],
+        "crs": "EPSG:32723"
+      }
+    },
+    {
+      "asset_name": "RGB_quicklook",
+      "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/RGB_clipped_quicklook.tif",
+      "status": "ok",
+      "meta": {
+        "output_path": "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis/S2B_MSIL2A_20221011T132229_R038_T23MNS_20240721T205956/clipped_to_aoi/RGB_clipped_quicklook.tif",
+        "shape": [
+          3,
+          617,
+          2782
+        ]
+      }
+    }
+  ]
+}

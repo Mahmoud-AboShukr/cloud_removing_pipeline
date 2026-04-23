@@ -1,0 +1,119 @@
+{
+  "city_slug": "joao_pessoa",
+  "n_scene_dirs_discovered": 6,
+  "n_scene_dirs_valid": 6,
+  "dilate_iters": 3,
+  "max_hole_pixels": 1500,
+  "total_pixels": 4474000,
+  "unresolved_pixels": 530,
+  "unresolved_ratio": 0.00011846222619579794,
+  "scene_diagnostics": [
+    {
+      "scene_id": "S2A_MSIL2A_20220216T124321_R009_T25MBN_20220224T044429",
+      "total_pixels": 4474000,
+      "valid_pixels": 4194141,
+      "valid_fraction": 0.9374476978095664,
+      "bad_dilated_pixels": 279859,
+      "bad_dilated_fraction": 0.06255230219043362
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20220626T124301_R009_T25MBN_20220627T013554",
+      "total_pixels": 4474000,
+      "valid_pixels": 3085777,
+      "valid_fraction": 0.6897132320071524,
+      "bad_dilated_pixels": 1388223,
+      "bad_dilated_fraction": 0.31028676799284755
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20220726T124301_R009_T25MBN_20220728T035614",
+      "total_pixels": 4474000,
+      "valid_pixels": 2122632,
+      "valid_fraction": 0.4744371926687528,
+      "bad_dilated_pixels": 2351368,
+      "bad_dilated_fraction": 0.5255628073312472
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220122T124309_R009_T25MBN_20220123T093705",
+      "total_pixels": 4474000,
+      "valid_pixels": 2552177,
+      "valid_fraction": 0.5704463567277603,
+      "bad_dilated_pixels": 1921823,
+      "bad_dilated_fraction": 0.4295536432722396
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220820T124249_R009_T25MBN_20220820T215355",
+      "total_pixels": 4474000,
+      "valid_pixels": 4392936,
+      "valid_fraction": 0.9818810907465355,
+      "bad_dilated_pixels": 81064,
+      "bad_dilated_fraction": 0.01811890925346446
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20220919T124249_R009_T25MBN_20220920T042348",
+      "total_pixels": 4474000,
+      "valid_pixels": 4160545,
+      "valid_fraction": 0.9299385337505588,
+      "bad_dilated_pixels": 313455,
+      "bad_dilated_fraction": 0.07006146624944122
+    }
+  ],
+  "output_files": {
+    "composite_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/joao_pessoa/joao_pessoa_ocm_v1_composite.tif",
+    "composite_filled_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/joao_pessoa/joao_pessoa_ocm_v1_composite_smallholes_filled.tif",
+    "observation_count_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/joao_pessoa/joao_pessoa_ocm_v1_observation_count.tif",
+    "cloudmask_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/joao_pessoa/joao_pessoa_ocm_v1_cloudmask.tif",
+    "small_holes_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/composites/joao_pessoa/joao_pessoa_ocm_v1_small_holes_mask.tif"
+  },
+  "grid_spec": {
+    "city_slug": "joao_pessoa",
+    "aoi_path": "data/interim/aoi_buffered_hard_cities/joao_pessoa_buffered_2500m.gpkg",
+    "n_inventory_rows": 6,
+    "n_valid_ocm_scenes": 6,
+    "reference_scene_dir": "/media/HALLOPEAU/T7/raw_backup/joao_pessoa/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220216T124321_R009_T25MBN_20220224T044429",
+    "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/joao_pessoa/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220216T124321_R009_T25MBN_20220224T044429/B02.tif",
+    "reference_crs": "EPSG:32725",
+    "reference_transform": [
+      10.0,
+      0.0,
+      199980.0,
+      0.0,
+      -10.0,
+      9300040.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "reference_res_x": 10.0,
+    "reference_res_y": 10.0,
+    "reference_width": 10980,
+    "reference_height": 10980,
+    "reference_dtype": "uint16",
+    "reference_nodata": 0.0,
+    "aoi_bounds_in_reference_crs": [
+      284230.15363271366,
+      9199255.927085167,
+      304226.9476141798,
+      9221616.16340471
+    ],
+    "snapped_bounds": [
+      284230.0,
+      9199250.0,
+      304230.0,
+      9221620.0
+    ],
+    "grid_width": 2000,
+    "grid_height": 2237,
+    "grid_transform": [
+      10.0,
+      0.0,
+      284230.0,
+      0.0,
+      -10.0,
+      9221620.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "grid_nodata": 0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "city_slug": "maceio",
+  "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/maceio/maceio_grid_spec.json",
+  "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/maceio/maceio_grid_template.tif",
+  "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B02.tif",
+  "reference_crs": "EPSG:32724",
+  "grid_width": 2908,
+  "grid_height": 2543,
+  "snapped_bounds": [
+    849570.0,
+    8926310.0,
+    878650.0,
+    8951740.0
+  ]
+}

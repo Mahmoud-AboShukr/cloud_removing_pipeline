@@ -1,0 +1,110 @@
+{
+  "cities": [
+    {
+      "city_slug": "belem",
+      "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/belem/belem_grid_spec.json",
+      "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/belem/belem_grid_template.tif",
+      "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/belem/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220624T133851_R124_T22MGD_20220625T050550/B02.tif",
+      "reference_crs": "EPSG:32722",
+      "grid_width": 2510,
+      "grid_height": 5134,
+      "snapped_bounds": [
+        774810.0,
+        9833850.0,
+        799910.0,
+        9885190.0
+      ]
+    },
+    {
+      "city_slug": "duque_de_caxias",
+      "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/duque_de_caxias/duque_de_caxias_grid_spec.json",
+      "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/duque_de_caxias/duque_de_caxias_grid_template.tif",
+      "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220324T130251_R095_T23KPQ_20240527T215348/B02.tif",
+      "reference_crs": "EPSG:32723",
+      "grid_width": 1882,
+      "grid_height": 2697,
+      "snapped_bounds": [
+        668820.0,
+        7474300.0,
+        687640.0,
+        7501270.0
+      ]
+    },
+    {
+      "city_slug": "joao_pessoa",
+      "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/joao_pessoa/joao_pessoa_grid_spec.json",
+      "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/joao_pessoa/joao_pessoa_grid_template.tif",
+      "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/joao_pessoa/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220216T124321_R009_T25MBN_20220224T044429/B02.tif",
+      "reference_crs": "EPSG:32725",
+      "grid_width": 2000,
+      "grid_height": 2237,
+      "snapped_bounds": [
+        284230.0,
+        9199250.0,
+        304230.0,
+        9221620.0
+      ]
+    },
+    {
+      "city_slug": "maceio",
+      "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/maceio/maceio_grid_spec.json",
+      "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/maceio/maceio_grid_template.tif",
+      "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220318T124321_R009_T24LZQ_20220319T035146/B02.tif",
+      "reference_crs": "EPSG:32724",
+      "grid_width": 2908,
+      "grid_height": 2543,
+      "snapped_bounds": [
+        849570.0,
+        8926310.0,
+        878650.0,
+        8951740.0
+      ]
+    },
+    {
+      "city_slug": "natal",
+      "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/natal/natal_grid_spec.json",
+      "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/natal/natal_grid_template.tif",
+      "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/natal/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220216T124321_R009_T25MBP_20220224T045448/B02.tif",
+      "reference_crs": "EPSG:32725",
+      "grid_width": 1925,
+      "grid_height": 2478,
+      "snapped_bounds": [
+        243730.0,
+        9345560.0,
+        262980.0,
+        9370340.0
+      ]
+    },
+    {
+      "city_slug": "recife",
+      "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/recife/recife_grid_spec.json",
+      "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/recife/recife_grid_template.tif",
+      "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220107T124321_R009_T25MBM_20220108T021638/B02.tif",
+      "reference_crs": "EPSG:32725",
+      "grid_width": 1869,
+      "grid_height": 2589,
+      "snapped_bounds": [
+        277460.0,
+        9096750.0,
+        296150.0,
+        9122640.0
+      ]
+    },
+    {
+      "city_slug": "sao_luis",
+      "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/sao_luis/sao_luis_grid_spec.json",
+      "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/sao_luis/sao_luis_grid_template.tif",
+      "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754/B02.tif",
+      "reference_crs": "EPSG:32723",
+      "grid_width": 2782,
+      "grid_height": 3445,
+      "snapped_bounds": [
+        567870.0,
+        9693830.0,
+        595690.0,
+        9728280.0
+      ]
+    }
+  ],
+  "global_summary_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/grid_global_summary.json"
+}

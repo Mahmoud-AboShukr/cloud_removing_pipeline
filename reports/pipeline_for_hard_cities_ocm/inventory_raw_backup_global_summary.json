@@ -1,0 +1,154 @@
+{
+  "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+  "aoi_dir": "data/interim/aoi_buffered_hard_cities",
+  "report_dir": "reports/pipeline_for_hard_cities_ocm",
+  "cities": [
+    {
+      "city_slug": "belem",
+      "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+      "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/belem/2022/s2_planetary_multiscene_12band_v3",
+      "aoi_found": true,
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/belem_buffered_2500m.gpkg",
+      "n_scene_dirs": 6,
+      "n_with_required_ocm_inputs": 6,
+      "n_with_all_12_bands": 6,
+      "n_with_scl": 6,
+      "status": "ok",
+      "discovery_mode": "recursive_search_for_B03_B04_B08",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -48.530255721305494,
+        -1.5016496019930898,
+        -48.305333164130644,
+        -1.0376938148044297
+      ],
+      "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/belem_scene_inventory.csv"
+    },
+    {
+      "city_slug": "duque_de_caxias",
+      "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+      "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/duque_de_caxias/2022/s2_planetary_multiscene_12band_v3",
+      "aoi_found": true,
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/duque_de_caxias_buffered_2500m.gpkg",
+      "n_scene_dirs": 7,
+      "n_with_required_ocm_inputs": 7,
+      "n_with_all_12_bands": 7,
+      "n_with_scl": 6,
+      "status": "ok",
+      "discovery_mode": "recursive_search_for_B03_B04_B08",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -43.35521635420433,
+        -22.82966139173283,
+        -43.174483785814104,
+        -22.585737300648283
+      ],
+      "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/duque_de_caxias_scene_inventory.csv"
+    },
+    {
+      "city_slug": "joao_pessoa",
+      "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+      "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/joao_pessoa/2022/s2_planetary_multiscene_12band_v3",
+      "aoi_found": true,
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/joao_pessoa_buffered_2500m.gpkg",
+      "n_scene_dirs": 6,
+      "n_with_required_ocm_inputs": 6,
+      "n_with_all_12_bands": 6,
+      "n_with_scl": 6,
+      "status": "ok",
+      "discovery_mode": "recursive_search_for_B03_B04_B08",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -34.953923167531336,
+        -7.240514572483089,
+        -34.77283926215765,
+        -7.038275280897172
+      ],
+      "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/joao_pessoa_scene_inventory.csv"
+    },
+    {
+      "city_slug": "maceio",
+      "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+      "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/maceio/2022/s2_planetary_multiscene_12band_v3",
+      "aoi_found": true,
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/maceio_buffered_2500m.gpkg",
+      "n_scene_dirs": 7,
+      "n_with_required_ocm_inputs": 7,
+      "n_with_all_12_bands": 6,
+      "n_with_scl": 6,
+      "status": "ok",
+      "discovery_mode": "recursive_search_for_B03_B04_B08",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -35.816266528521375,
+        -9.697772468284594,
+        -35.55232614903086,
+        -9.466380057310223
+      ],
+      "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/maceio_scene_inventory.csv"
+    },
+    {
+      "city_slug": "natal",
+      "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+      "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/natal/2022/s2_planetary_multiscene_12band_v3",
+      "aoi_found": true,
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/natal_buffered_2500m.gpkg",
+      "n_scene_dirs": 7,
+      "n_with_required_ocm_inputs": 7,
+      "n_with_all_12_bands": 6,
+      "n_with_scl": 6,
+      "status": "ok",
+      "discovery_mode": "recursive_search_for_B03_B04_B08",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -35.31390651161859,
+        -5.916374719644538,
+        -35.140818642628496,
+        -5.692141891535973
+      ],
+      "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/natal_scene_inventory.csv"
+    },
+    {
+      "city_slug": "recife",
+      "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+      "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/recife/2022/s2_planetary_multiscene_12band_v3",
+      "aoi_found": true,
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/recife_buffered_2500m.gpkg",
+      "n_scene_dirs": 7,
+      "n_with_required_ocm_inputs": 7,
+      "n_with_all_12_bands": 6,
+      "n_with_scl": 6,
+      "status": "ok",
+      "discovery_mode": "recursive_search_for_B03_B04_B08",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -35.01920450745616,
+        -8.1668619987393,
+        -34.84977951844344,
+        -7.932869813710839
+      ],
+      "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/recife_scene_inventory.csv"
+    },
+    {
+      "city_slug": "sao_luis",
+      "raw_backup_root": "/media/HALLOPEAU/T7/raw_backup",
+      "raw_city_root": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3",
+      "aoi_found": true,
+      "aoi_path": "data/interim/aoi_buffered_hard_cities/sao_luis_buffered_2500m.gpkg",
+      "n_scene_dirs": 6,
+      "n_with_required_ocm_inputs": 6,
+      "n_with_all_12_bands": 6,
+      "n_with_scl": 6,
+      "status": "ok",
+      "discovery_mode": "recursive_search_for_B03_B04_B08",
+      "aoi_crs": "EPSG:4326",
+      "aoi_bounds": [
+        -44.38932973556738,
+        -2.7698071759572804,
+        -44.139226133743534,
+        -2.458142865564403
+      ],
+      "inventory_csv": "/media/HALLOPEAU/T7/ocm_v1_outputs/inventory/sao_luis_scene_inventory.csv"
+    }
+  ]
+}

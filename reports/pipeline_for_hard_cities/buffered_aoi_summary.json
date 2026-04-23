@@ -1,0 +1,156 @@
+{
+  "input_polygons": "data/interim/polygons_clean/favelas_clean.gpkg",
+  "input_crs": "EPSG:4326",
+  "city_col": "nm_mun",
+  "buffer_m": 2500.0,
+  "simplify_m": 20.0,
+  "metric_crs": "EPSG:5880",
+  "output_dir": "data/interim/aoi_buffered_hard_cities",
+  "report_dir": "reports/pipeline_for_hard_cities",
+  "external_root": "/media/HALLOPEAU/T7/hard_cities_S2_images",
+  "cities_processed": [
+    {
+      "city": "João Pessoa",
+      "city_slug": "joao_pessoa",
+      "n_input_polygons": 160,
+      "buffer_m": 2500.0,
+      "simplify_m": 20.0,
+      "output_gpkg": "data/interim/aoi_buffered_hard_cities/joao_pessoa_buffered_2500m.gpkg",
+      "output_crs": "EPSG:4326",
+      "bounds": [
+        -34.953923167531336,
+        -7.240514572483089,
+        -34.77283926215765,
+        -7.038275280897172
+      ]
+    },
+    {
+      "city": "Maceió",
+      "city_slug": "maceio",
+      "n_input_polygons": 194,
+      "buffer_m": 2500.0,
+      "simplify_m": 20.0,
+      "output_gpkg": "data/interim/aoi_buffered_hard_cities/maceio_buffered_2500m.gpkg",
+      "output_crs": "EPSG:4326",
+      "bounds": [
+        -35.816266528521375,
+        -9.697772468284594,
+        -35.55232614903086,
+        -9.466380057310223
+      ]
+    },
+    {
+      "city": "Natal",
+      "city_slug": "natal",
+      "n_input_polygons": 81,
+      "buffer_m": 2500.0,
+      "simplify_m": 20.0,
+      "output_gpkg": "data/interim/aoi_buffered_hard_cities/natal_buffered_2500m.gpkg",
+      "output_crs": "EPSG:4326",
+      "bounds": [
+        -35.31390651161859,
+        -5.916374719644538,
+        -35.140818642628496,
+        -5.692141891535973
+      ]
+    },
+    {
+      "city": "Recife",
+      "city_slug": "recife",
+      "n_input_polygons": 296,
+      "buffer_m": 2500.0,
+      "simplify_m": 20.0,
+      "output_gpkg": "data/interim/aoi_buffered_hard_cities/recife_buffered_2500m.gpkg",
+      "output_crs": "EPSG:4326",
+      "bounds": [
+        -35.01920450745616,
+        -8.1668619987393,
+        -34.84977951844344,
+        -7.932869813710839
+      ]
+    },
+    {
+      "city": "Belém",
+      "city_slug": "belem",
+      "n_input_polygons": 218,
+      "buffer_m": 2500.0,
+      "simplify_m": 20.0,
+      "output_gpkg": "data/interim/aoi_buffered_hard_cities/belem_buffered_2500m.gpkg",
+      "output_crs": "EPSG:4326",
+      "bounds": [
+        -48.530255721305494,
+        -1.5016496019930898,
+        -48.305333164130644,
+        -1.0376938148044297
+      ]
+    },
+    {
+      "city": "São Luís",
+      "city_slug": "sao_luis",
+      "n_input_polygons": 112,
+      "buffer_m": 2500.0,
+      "simplify_m": 20.0,
+      "output_gpkg": "data/interim/aoi_buffered_hard_cities/sao_luis_buffered_2500m.gpkg",
+      "output_crs": "EPSG:4326",
+      "bounds": [
+        -44.38932973556738,
+        -2.7698071759572804,
+        -44.139226133743534,
+        -2.458142865564403
+      ]
+    },
+    {
+      "city": "Duque De Caxias",
+      "city_slug": "duque_de_caxias",
+      "n_input_polygons": 58,
+      "buffer_m": 2500.0,
+      "simplify_m": 20.0,
+      "output_gpkg": "data/interim/aoi_buffered_hard_cities/duque_de_caxias_buffered_2500m.gpkg",
+      "output_crs": "EPSG:4326",
+      "bounds": [
+        -43.35521635420433,
+        -22.82966139173283,
+        -43.174483785814104,
+        -22.585737300648283
+      ]
+    }
+  ],
+  "external_structure": {
+    "external_root": "/media/HALLOPEAU/T7/hard_cities_S2_images",
+    "directories": [
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/raw",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/quicklooks",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/logs",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/joao_pessoa",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/joao_pessoa",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/quicklooks/joao_pessoa",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/logs/joao_pessoa",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/maceio",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/maceio",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/quicklooks/maceio",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/logs/maceio",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/natal",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/natal",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/quicklooks/natal",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/logs/natal",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/recife",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/recife",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/quicklooks/recife",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/logs/recife",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/belem",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/belem",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/quicklooks/belem",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/logs/belem",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/sao_luis",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/sao_luis",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/quicklooks/sao_luis",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/logs/sao_luis",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/raw/duque_de_caxias",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/duque_de_caxias",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/quicklooks/duque_de_caxias",
+      "/media/HALLOPEAU/T7/hard_cities_S2_images/logs/duque_de_caxias"
+    ]
+  }
+}

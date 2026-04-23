@@ -1,0 +1,11 @@
+{
+  "city_slug": "recife",
+  "n_inventory_rows": 7,
+  "n_scenes_with_required_ocm_inputs": 7,
+  "n_ok": 7,
+  "n_exists": 0,
+  "n_failed": 0,
+  "overwrite": false,
+  "results_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/logs/recife/recife_ocm_generation_results.json",
+  "summary_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/logs/recife/recife_ocm_generation_summary.json"
+}

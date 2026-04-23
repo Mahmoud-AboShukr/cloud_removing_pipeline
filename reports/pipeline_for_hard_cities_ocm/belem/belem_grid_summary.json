@@ -1,0 +1,15 @@
+{
+  "city_slug": "belem",
+  "grid_spec_json": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/belem/belem_grid_spec.json",
+  "grid_template_tif": "/media/HALLOPEAU/T7/ocm_v1_outputs/grid_specs/belem/belem_grid_template.tif",
+  "reference_raster_path": "/media/HALLOPEAU/T7/raw_backup/belem/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220624T133851_R124_T22MGD_20220625T050550/B02.tif",
+  "reference_crs": "EPSG:32722",
+  "grid_width": 2510,
+  "grid_height": 5134,
+  "snapped_bounds": [
+    774810.0,
+    9833850.0,
+    799910.0,
+    9885190.0
+  ]
+}

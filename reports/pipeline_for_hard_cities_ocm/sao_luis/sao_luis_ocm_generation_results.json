@@ -1,0 +1,203 @@
+[
+  {
+    "city_slug": "sao_luis",
+    "scene_id": "S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/sao_luis/S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220708T132251_R038_T23MNT_20240717T205754/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 88681317,
+        "1": 21537293,
+        "3": 10341790
+      },
+      "fractions": {
+        "0": 0.7355758358465964,
+        "1": 0.17864317802528856,
+        "3": 0.08578098612811504
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "sao_luis",
+    "scene_id": "S2A_MSIL2A_20220926T132241_R038_T23MNT_20240714T113310",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220926T132241_R038_T23MNT_20240714T113310",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/sao_luis/S2A_MSIL2A_20220926T132241_R038_T23MNT_20240714T113310/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220926T132241_R038_T23MNT_20240714T113310/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220926T132241_R038_T23MNT_20240714T113310/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2A_MSIL2A_20220926T132241_R038_T23MNT_20240714T113310/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 71417696,
+        "1": 38676824,
+        "3": 10465880
+      },
+      "fractions": {
+        "0": 0.5923810471763531,
+        "1": 0.3208086900839745,
+        "3": 0.08681026273967239
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "sao_luis",
+    "scene_id": "S2B_MSIL2A_20220613T132239_R038_T23MNT_20220614T085832",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220613T132239_R038_T23MNT_20220614T085832",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/sao_luis/S2B_MSIL2A_20220613T132239_R038_T23MNT_20220614T085832/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220613T132239_R038_T23MNT_20220614T085832/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220613T132239_R038_T23MNT_20220614T085832/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220613T132239_R038_T23MNT_20220614T085832/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 70569093,
+        "1": 33352855,
+        "2": 493,
+        "3": 16637959
+      },
+      "fractions": {
+        "0": 0.58534222680084,
+        "1": 0.27664850979260186,
+        "2": 4.089236598418718e-06,
+        "3": 0.1380051741699596
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "sao_luis",
+    "scene_id": "S2B_MSIL2A_20220623T132239_R038_T23MNT_20220624T005515",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220623T132239_R038_T23MNT_20220624T005515",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/sao_luis/S2B_MSIL2A_20220623T132239_R038_T23MNT_20220624T005515/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220623T132239_R038_T23MNT_20220624T005515/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220623T132239_R038_T23MNT_20220624T005515/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20220623T132239_R038_T23MNT_20220624T005515/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 108666538,
+        "1": 6350199,
+        "2": 1995125,
+        "3": 3548538
+      },
+      "fractions": {
+        "0": 0.901345201243526,
+        "1": 0.0526723451481581,
+        "2": 0.016548758962312667,
+        "3": 0.029433694646003164
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "sao_luis",
+    "scene_id": "S2B_MSIL2A_20221031T132229_R038_T23MNT_20221031T234612",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221031T132229_R038_T23MNT_20221031T234612",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/sao_luis/S2B_MSIL2A_20221031T132229_R038_T23MNT_20221031T234612/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221031T132229_R038_T23MNT_20221031T234612/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221031T132229_R038_T23MNT_20221031T234612/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221031T132229_R038_T23MNT_20221031T234612/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "counts": {
+        "0": 76099966,
+        "1": 33774327,
+        "2": 344,
+        "3": 10685763
+      },
+      "fractions": {
+        "0": 0.6312185925063287,
+        "1": 0.28014445041655467,
+        "2": 2.8533415615741157e-06,
+        "3": 0.08863410373555496
+      },
+      "total_pixels": 120560400
+    }
+  },
+  {
+    "city_slug": "sao_luis",
+    "scene_id": "S2B_MSIL2A_20221110T132229_R038_T23MNT_20221110T235854",
+    "scene_dir": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221110T132229_R038_T23MNT_20221110T235854",
+    "output_mask": "/media/HALLOPEAU/T7/ocm_v1_outputs/ocm_masks/sao_luis/S2B_MSIL2A_20221110T132229_R038_T23MNT_20221110T235854/ocm_mask.tif",
+    "status": "ok",
+    "input_B04": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221110T132229_R038_T23MNT_20221110T235854/B04.tif",
+    "input_B03": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221110T132229_R038_T23MNT_20221110T235854/B03.tif",
+    "input_B08": "/media/HALLOPEAU/T7/raw_backup/sao_luis/2022/s2_planetary_multiscene_12band_v3/scenes/S2B_MSIL2A_20221110T132229_R038_T23MNT_20221110T235854/B08.tif",
+    "mask_summary": {
+      "shape": [
+        10980,
+        10980
+      ],
+      "unique_values": [
+        0,
+        1,
+        3
+      ],
+      "counts": {
+        "0": 81199850,
+        "1": 28110206,
+        "3": 11250344
+      },
+      "fractions": {
+        "0": 0.6735200779028603,
+        "1": 0.23316284617502928,
+        "3": 0.09331707592211042
+      },
+      "total_pixels": 120560400
+    }
+  }
+]

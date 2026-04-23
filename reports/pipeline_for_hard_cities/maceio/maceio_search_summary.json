@@ -1,0 +1,28 @@
+{
+  "city": "Maceió",
+  "city_slug": "maceio",
+  "aoi_path": "data/interim/aoi_buffered_hard_cities/maceio_buffered_2500m.gpkg",
+  "aoi_crs": "EPSG:4326",
+  "aoi_bounds": [
+    -35.816266528521375,
+    -9.697772468284594,
+    -35.55232614903086,
+    -9.466380057310223
+  ],
+  "collection": "sentinel-2-l2a",
+  "stac_url": "https://planetarycomputer.microsoft.com/api/stac/v1",
+  "search_start": "2022-10-01",
+  "search_end": "2022-12-31",
+  "search_months": [
+    10,
+    11,
+    12
+  ],
+  "cloud_cover_max": 50.0,
+  "max_items_requested": 80,
+  "n_candidates_after_search_and_filtering": 39,
+  "csv_manifest_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/manifests/maceio/maceio_candidates.csv",
+  "full_json_external": "/media/HALLOPEAU/T7/hard_cities_S2_images/ranked_metadata/maceio/maceio_candidates_full.json",
+  "csv_manifest_repo": "reports/pipeline_for_hard_cities/maceio/maceio_candidates.csv",
+  "summary_repo": "reports/pipeline_for_hard_cities/maceio/maceio_search_summary.json"
+}
